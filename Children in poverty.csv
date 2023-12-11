@@ -1,0 +1,2333 @@
+﻿LocationType,Location,TimeFrame,DataFormat,Data
+Nation,United States,2000,Number,12209000
+State,Alabama,2000,Number,233000
+State,Alaska,2000,Number,25000
+State,Arizona,2000,Number,310000
+State,Arkansas,2000,Number,168000
+State,California,2000,Number,1778000
+State,Colorado,2000,Number,104000
+State,Connecticut,2000,Number,94000
+State,Delaware,2000,Number,22000
+City,District of Columbia,2000,Number,34000
+State,Florida,2000,Number,670000
+State,Georgia,2000,Number,389000
+State,Hawaii,2000,Number,37000
+State,Idaho,2000,Number,51000
+State,Illinois,2000,Number,489000
+State,Indiana,2000,Number,220000
+State,Iowa,2000,Number,95000
+State,Kansas,2000,Number,80000
+State,Kentucky,2000,Number,209000
+State,Louisiana,2000,Number,326000
+State,Maine,2000,Number,34000
+State,Maryland,2000,Number,178000
+State,Massachusetts,2000,Number,205000
+State,Michigan,2000,Number,354000
+State,Minnesota,2000,Number,114000
+State,Mississippi,2000,Number,199000
+State,Missouri,2000,Number,221000
+State,Montana,2000,Number,37000
+State,Nebraska,2000,Number,46000
+State,Nevada,2000,Number,65000
+State,New Hampshire,2000,Number,19000
+State,New Jersey,2000,Number,213000
+State,New Mexico,2000,Number,132000
+State,New York,2000,Number,872000
+State,North Carolina,2000,Number,354000
+State,North Dakota,2000,Number,23000
+State,Ohio,2000,Number,452000
+State,Oklahoma,2000,Number,165000
+State,Oregon,2000,Number,145000
+State,Pennsylvania,2000,Number,440000
+State,Rhode Island,2000,Number,38000
+State,South Carolina,2000,Number,192000
+State,South Dakota,2000,Number,27000
+State,Tennessee,2000,Number,267000
+State,Texas,2000,Number,1254000
+State,Utah,2000,Number,72000
+State,Vermont,2000,Number,18000
+State,Virginia,2000,Number,219000
+State,Washington,2000,Number,239000
+State,West Virginia,2000,Number,103000
+State,Wisconsin,2000,Number,155000
+State,Wyoming,2000,Number,19000
+Territory,Puerto Rico,2000,Number,N.A.
+Territory,Puerto Rico,2000,Percent,N.A.
+State,Wyoming,2000,Percent,0.15
+State,Wisconsin,2000,Percent,0.12
+State,West Virginia,2000,Percent,0.26
+State,Washington,2000,Percent,0.16
+State,Virginia,2000,Percent,0.13
+State,Vermont,2000,Percent,0.13
+State,Utah,2000,Percent,0.1
+State,Texas,2000,Percent,0.22
+State,Tennessee,2000,Percent,0.2
+State,South Dakota,2000,Percent,0.14
+State,South Carolina,2000,Percent,0.19
+State,Rhode Island,2000,Percent,0.16
+State,Pennsylvania,2000,Percent,0.15
+State,Oregon,2000,Percent,0.18
+State,Oklahoma,2000,Percent,0.19
+State,Ohio,2000,Percent,0.16
+State,North Dakota,2000,Percent,0.15
+State,North Carolina,2000,Percent,0.19
+State,New York,2000,Percent,0.19
+State,New Mexico,2000,Percent,0.26
+State,New Jersey,2000,Percent,0.1
+State,New Hampshire,2000,Percent,0.06
+State,Nevada,2000,Percent,0.13
+State,Nebraska,2000,Percent,0.1
+State,Montana,2000,Percent,0.17
+State,Missouri,2000,Percent,0.16
+State,Mississippi,2000,Percent,0.26
+State,Minnesota,2000,Percent,0.09
+State,Michigan,2000,Percent,0.14
+State,Massachusetts,2000,Percent,0.14
+State,Maryland,2000,Percent,0.13
+State,Maine,2000,Percent,0.12
+State,Louisiana,2000,Percent,0.27
+State,Kentucky,2000,Percent,0.22
+State,Kansas,2000,Percent,0.12
+State,Iowa,2000,Percent,0.13
+State,Indiana,2000,Percent,0.14
+State,Illinois,2000,Percent,0.15
+State,Idaho,2000,Percent,0.14
+State,Hawaii,2000,Percent,0.13
+State,Georgia,2000,Percent,0.18
+State,Florida,2000,Percent,0.19
+City,District of Columbia,2000,Percent,0.3
+State,Delaware,2000,Percent,0.12
+State,Connecticut,2000,Percent,0.11
+State,Colorado,2000,Percent,0.1
+State,California,2000,Percent,0.2
+State,Arkansas,2000,Percent,0.25
+State,Arizona,2000,Percent,0.23
+State,Alaska,2000,Percent,0.13
+State,Alabama,2000,Percent,0.21
+Nation,United States,2000,Percent,0.17
+Nation,United States,2001,Percent,0.17
+State,Alabama,2001,Percent,0.23
+State,Alaska,2001,Percent,0.09
+State,Arizona,2001,Percent,0.19
+State,Arkansas,2001,Percent,0.21
+State,California,2001,Percent,0.18
+State,Colorado,2001,Percent,0.13
+State,Connecticut,2001,Percent,0.1
+State,Delaware,2001,Percent,0.14
+City,District of Columbia,2001,Percent,0.32
+State,Florida,2001,Percent,0.17
+State,Georgia,2001,Percent,0.16
+State,Idaho,2001,Percent,0.15
+State,Hawaii,2001,Percent,0.14
+State,Illinois,2001,Percent,0.15
+State,Indiana,2001,Percent,0.13
+State,Iowa,2001,Percent,0.13
+State,Kansas,2001,Percent,0.13
+State,Kentucky,2001,Percent,0.19
+State,Louisiana,2001,Percent,0.27
+State,Maine,2001,Percent,0.11
+State,Maryland,2001,Percent,0.11
+State,Massachusetts,2001,Percent,0.12
+State,Michigan,2001,Percent,0.15
+State,Minnesota,2001,Percent,0.11
+State,Mississippi,2001,Percent,0.26
+State,Missouri,2001,Percent,0.16
+State,Montana,2001,Percent,0.2
+State,Nevada,2001,Percent,0.15
+State,Nebraska,2001,Percent,0.14
+State,New Hampshire,2001,Percent,0.07
+State,New Jersey,2001,Percent,0.11
+State,New Mexico,2001,Percent,0.24
+State,New York,2001,Percent,0.19
+State,North Carolina,2001,Percent,0.2
+State,North Dakota,2001,Percent,0.15
+State,Ohio,2001,Percent,0.16
+State,Oklahoma,2001,Percent,0.2
+State,Oregon,2001,Percent,0.18
+State,Pennsylvania,2001,Percent,0.15
+State,Rhode Island,2001,Percent,0.18
+State,South Carolina,2001,Percent,0.2
+State,South Dakota,2001,Percent,0.14
+State,Tennessee,2001,Percent,0.21
+State,Utah,2001,Percent,0.09
+State,Texas,2001,Percent,0.21
+State,Vermont,2001,Percent,0.15
+State,Virginia,2001,Percent,0.12
+State,Washington,2001,Percent,0.14
+State,West Virginia,2001,Percent,0.23
+State,Wisconsin,2001,Percent,0.14
+State,Wyoming,2001,Percent,0.13
+Territory,Puerto Rico,2001,Percent,N.A.
+Territory,Puerto Rico,2001,Number,N.A.
+State,Wyoming,2001,Number,16000
+State,Wisconsin,2001,Number,177000
+State,West Virginia,2001,Number,90000
+State,Washington,2001,Number,209000
+State,Virginia,2001,Number,219000
+State,Vermont,2001,Number,19000
+State,Utah,2001,Number,64000
+State,Texas,2001,Number,1239000
+State,Tennessee,2001,Number,285000
+State,South Dakota,2001,Number,26000
+State,South Carolina,2001,Number,197000
+State,Rhode Island,2001,Number,43000
+State,Pennsylvania,2001,Number,418000
+State,Oregon,2001,Number,153000
+State,Oklahoma,2001,Number,176000
+State,Ohio,2001,Number,416000
+State,North Dakota,2001,Number,20000
+State,North Carolina,2001,Number,399000
+State,New York,2001,Number,865000
+State,New Mexico,2001,Number,117000
+State,New Jersey,2001,Number,209000
+State,New Hampshire,2001,Number,21000
+State,Nevada,2001,Number,81000
+State,Nebraska,2001,Number,59000
+State,Montana,2001,Number,45000
+State,Missouri,2001,Number,224000
+State,Mississippi,2001,Number,198000
+State,Minnesota,2001,Number,125000
+State,Michigan,2001,Number,352000
+State,Massachusetts,2001,Number,161000
+State,Maryland,2001,Number,149000
+State,Maine,2001,Number,29000
+State,Louisiana,2001,Number,327000
+State,Kentucky,2001,Number,183000
+State,Kansas,2001,Number,85000
+State,Iowa,2001,Number,89000
+State,Indiana,2001,Number,185000
+State,Illinois,2001,Number,474000
+State,Idaho,2001,Number,56000
+State,Hawaii,2001,Number,42000
+State,Georgia,2001,Number,355000
+State,Florida,2001,Number,652000
+City,District of Columbia,2001,Number,36000
+State,Delaware,2001,Number,26000
+State,Connecticut,2001,Number,82000
+State,Colorado,2001,Number,143000
+State,California,2001,Number,1732000
+State,Arkansas,2001,Number,144000
+State,Arizona,2001,Number,280000
+State,Alaska,2001,Number,17000
+State,Alabama,2001,Number,253000
+Nation,United States,2001,Number,11962000
+Nation,United States,2002,Number,12518000
+State,Alabama,2002,Number,255000
+State,Alaska,2002,Number,19000
+State,Arizona,2002,Number,294000
+State,Arkansas,2002,Number,146000
+State,California,2002,Number,1715000
+State,Colorado,2002,Number,141000
+State,Connecticut,2002,Number,87000
+State,Delaware,2002,Number,21000
+City,District of Columbia,2002,Number,30000
+State,Florida,2002,Number,705000
+State,Georgia,2002,Number,395000
+State,Hawaii,2002,Number,40000
+State,Idaho,2002,Number,57000
+State,Illinois,2002,Number,511000
+State,Indiana,2002,Number,231000
+State,Iowa,2002,Number,95000
+State,Kansas,2002,Number,111000
+State,Kentucky,2002,Number,190000
+State,Louisiana,2002,Number,319000
+State,Maine,2002,Number,44000
+State,Maryland,2002,Number,152000
+State,Massachusetts,2002,Number,177000
+State,Michigan,2002,Number,393000
+State,Minnesota,2002,Number,144000
+State,Mississippi,2002,Number,214000
+State,Missouri,2002,Number,227000
+State,Montana,2002,Number,41000
+State,Nebraska,2002,Number,58000
+State,Nevada,2002,Number,95000
+State,New Hampshire,2002,Number,24000
+State,New Jersey,2002,Number,224000
+State,New Mexico,2002,Number,133000
+State,New York,2002,Number,863000
+State,North Carolina,2002,Number,420000
+State,North Dakota,2002,Number,19000
+State,Ohio,2002,Number,475000
+State,Oklahoma,2002,Number,184000
+State,Oregon,2002,Number,143000
+State,Pennsylvania,2002,Number,429000
+State,Rhode Island,2002,Number,36000
+State,South Carolina,2002,Number,190000
+State,South Dakota,2002,Number,27000
+State,Tennessee,2002,Number,270000
+State,Texas,2002,Number,1310000
+State,Utah,2002,Number,95000
+State,Vermont,2002,Number,13000
+State,Virginia,2002,Number,238000
+State,Washington,2002,Number,226000
+State,West Virginia,2002,Number,96000
+State,Wisconsin,2002,Number,179000
+State,Wyoming,2002,Number,17000
+Territory,Puerto Rico,2002,Number,N.A.
+Territory,Puerto Rico,2002,Percent,N.A.
+State,Wyoming,2002,Percent,0.14
+State,Wisconsin,2002,Percent,0.14
+State,West Virginia,2002,Percent,0.25
+State,Washington,2002,Percent,0.15
+State,Virginia,2002,Percent,0.14
+State,Vermont,2002,Percent,0.1
+State,Texas,2002,Percent,0.22
+State,Utah,2002,Percent,0.14
+State,Tennessee,2002,Percent,0.2
+State,South Dakota,2002,Percent,0.14
+State,South Carolina,2002,Percent,0.2
+State,Rhode Island,2002,Percent,0.15
+State,Pennsylvania,2002,Percent,0.15
+State,Oregon,2002,Percent,0.17
+State,Oklahoma,2002,Percent,0.22
+State,Ohio,2002,Percent,0.17
+State,North Dakota,2002,Percent,0.13
+State,North Carolina,2002,Percent,0.21
+State,New York,2002,Percent,0.19
+State,New Mexico,2002,Percent,0.27
+State,New Jersey,2002,Percent,0.11
+State,New Hampshire,2002,Percent,0.08
+State,Nebraska,2002,Percent,0.14
+State,Nevada,2002,Percent,0.17
+State,Montana,2002,Percent,0.2
+State,Missouri,2002,Percent,0.17
+State,Mississippi,2002,Percent,0.29
+State,Minnesota,2002,Percent,0.12
+State,Michigan,2002,Percent,0.16
+State,Massachusetts,2002,Percent,0.12
+State,Maryland,2002,Percent,0.11
+State,Maine,2002,Percent,0.16
+State,Louisiana,2002,Percent,0.27
+State,Kentucky,2002,Percent,0.21
+State,Kansas,2002,Percent,0.16
+State,Iowa,2002,Percent,0.14
+State,Indiana,2002,Percent,0.15
+State,Illinois,2002,Percent,0.16
+State,Hawaii,2002,Percent,0.14
+State,Idaho,2002,Percent,0.16
+State,Georgia,2002,Percent,0.18
+State,Florida,2002,Percent,0.19
+City,District of Columbia,2002,Percent,0.28
+State,Delaware,2002,Percent,0.11
+State,Connecticut,2002,Percent,0.1
+State,Colorado,2002,Percent,0.12
+State,California,2002,Percent,0.19
+State,Arkansas,2002,Percent,0.22
+State,Arizona,2002,Percent,0.2
+State,Alaska,2002,Percent,0.1
+State,Alabama,2002,Percent,0.24
+Nation,United States,2002,Percent,0.18
+Nation,United States,2003,Percent,0.18
+State,Alabama,2003,Percent,0.24
+State,Alaska,2003,Percent,0.14
+State,Arizona,2003,Percent,0.21
+State,Arkansas,2003,Percent,0.24
+State,California,2003,Percent,0.19
+State,Colorado,2003,Percent,0.13
+State,Connecticut,2003,Percent,0.11
+State,Delaware,2003,Percent,0.12
+State,Florida,2003,Percent,0.19
+City,District of Columbia,2003,Percent,0.36
+State,Georgia,2003,Percent,0.19
+State,Idaho,2003,Percent,0.18
+State,Hawaii,2003,Percent,0.15
+State,Illinois,2003,Percent,0.16
+State,Indiana,2003,Percent,0.14
+State,Iowa,2003,Percent,0.12
+State,Kansas,2003,Percent,0.14
+State,Kentucky,2003,Percent,0.24
+State,Louisiana,2003,Percent,0.3
+State,Maine,2003,Percent,0.13
+State,Maryland,2003,Percent,0.1
+State,Massachusetts,2003,Percent,0.12
+State,Michigan,2003,Percent,0.16
+State,Minnesota,2003,Percent,0.09
+State,Missouri,2003,Percent,0.16
+State,Mississippi,2003,Percent,0.29
+State,Montana,2003,Percent,0.18
+State,Nevada,2003,Percent,0.15
+State,Nebraska,2003,Percent,0.13
+State,New Hampshire,2003,Percent,0.08
+State,New Jersey,2003,Percent,0.12
+State,New Mexico,2003,Percent,0.26
+State,New York,2003,Percent,0.19
+State,North Carolina,2003,Percent,0.19
+State,North Dakota,2003,Percent,0.14
+State,Ohio,2003,Percent,0.18
+State,Oklahoma,2003,Percent,0.22
+State,Oregon,2003,Percent,0.18
+State,Pennsylvania,2003,Percent,0.16
+State,Rhode Island,2003,Percent,0.17
+State,South Dakota,2003,Percent,0.14
+State,South Carolina,2003,Percent,0.19
+State,Tennessee,2003,Percent,0.2
+State,Utah,2003,Percent,0.12
+State,Texas,2003,Percent,0.23
+State,Vermont,2003,Percent,0.12
+State,Virginia,2003,Percent,0.12
+State,Washington,2003,Percent,0.14
+State,West Virginia,2003,Percent,0.25
+State,Wisconsin,2003,Percent,0.14
+State,Wyoming,2003,Percent,0.12
+Territory,Puerto Rico,2003,Percent,N.A.
+Territory,Puerto Rico,2003,Number,N.A.
+State,Wyoming,2003,Number,14000
+State,Wisconsin,2003,Number,187000
+State,West Virginia,2003,Number,98000
+State,Washington,2003,Number,203000
+State,Virginia,2003,Number,205000
+State,Vermont,2003,Number,16000
+State,Utah,2003,Number,86000
+State,Texas,2003,Number,1406000
+State,Tennessee,2003,Number,272000
+State,South Dakota,2003,Number,26000
+State,South Carolina,2003,Number,188000
+State,Rhode Island,2003,Number,40000
+State,Pennsylvania,2003,Number,435000
+State,Oregon,2003,Number,146000
+State,Oklahoma,2003,Number,193000
+State,Ohio,2003,Number,495000
+State,North Dakota,2003,Number,20000
+State,North Carolina,2003,Number,382000
+State,New York,2003,Number,861000
+State,New Mexico,2003,Number,125000
+State,New Jersey,2003,Number,246000
+State,New Hampshire,2003,Number,25000
+State,Nevada,2003,Number,86000
+State,Nebraska,2003,Number,54000
+State,Montana,2003,Number,38000
+State,Missouri,2003,Number,217000
+State,Mississippi,2003,Number,214000
+State,Minnesota,2003,Number,116000
+State,Michigan,2003,Number,390000
+State,Massachusetts,2003,Number,180000
+State,Maryland,2003,Number,140000
+State,Maine,2003,Number,37000
+State,Louisiana,2003,Number,344000
+State,Kentucky,2003,Number,234000
+State,Kansas,2003,Number,96000
+State,Iowa,2003,Number,82000
+State,Indiana,2003,Number,213000
+State,Illinois,2003,Number,500000
+State,Idaho,2003,Number,65000
+State,Hawaii,2003,Number,44000
+State,Georgia,2003,Number,420000
+State,Florida,2003,Number,728000
+City,District of Columbia,2003,Number,38000
+State,Delaware,2003,Number,24000
+State,Connecticut,2003,Number,91000
+State,Colorado,2003,Number,149000
+State,California,2003,Number,1753000
+State,Arkansas,2003,Number,159000
+State,Arizona,2003,Number,314000
+State,Alaska,2003,Number,26000
+State,Alabama,2003,Number,255000
+Nation,United States,2003,Number,12673000
+Nation,United States,2004,Number,13245000
+State,Alabama,2004,Number,249000
+State,Alaska,2004,Number,21000
+State,Arizona,2004,Number,307000
+State,Arkansas,2004,Number,169000
+State,California,2004,Number,1777000
+State,Colorado,2004,Number,167000
+State,Connecticut,2004,Number,87000
+State,Delaware,2004,Number,26000
+City,District of Columbia,2004,Number,36000
+State,Florida,2004,Number,689000
+State,Georgia,2004,Number,484000
+State,Hawaii,2004,Number,42000
+State,Idaho,2004,Number,71000
+State,Illinois,2004,Number,535000
+State,Indiana,2004,Number,234000
+State,Iowa,2004,Number,83000
+State,Kansas,2004,Number,84000
+State,Kentucky,2004,Number,240000
+State,Louisiana,2004,Number,343000
+State,Maine,2004,Number,47000
+State,Maryland,2004,Number,155000
+State,Massachusetts,2004,Number,180000
+State,Michigan,2004,Number,439000
+State,Minnesota,2004,Number,130000
+State,Mississippi,2004,Number,228000
+State,Missouri,2004,Number,220000
+State,Montana,2004,Number,39000
+State,Nebraska,2004,Number,56000
+State,Nevada,2004,Number,111000
+State,New Hampshire,2004,Number,29000
+State,New Jersey,2004,Number,251000
+State,New Mexico,2004,Number,134000
+State,New York,2004,Number,926000
+State,North Carolina,2004,Number,455000
+State,North Dakota,2004,Number,21000
+State,Ohio,2004,Number,498000
+State,Oklahoma,2004,Number,173000
+State,Oregon,2004,Number,160000
+State,Pennsylvania,2004,Number,466000
+State,Rhode Island,2004,Number,50000
+State,South Carolina,2004,Number,229000
+State,South Dakota,2004,Number,27000
+State,Tennessee,2004,Number,286000
+State,Texas,2004,Number,1412000
+State,Utah,2004,Number,97000
+State,Vermont,2004,Number,15000
+State,Virginia,2004,Number,227000
+State,Washington,2004,Number,252000
+State,West Virginia,2004,Number,93000
+State,Wisconsin,2004,Number,179000
+State,Wyoming,2004,Number,16000
+Territory,Puerto Rico,2004,Number,N.A.
+Territory,Puerto Rico,2004,Percent,N.A.
+State,Wyoming,2004,Percent,0.14
+State,Wisconsin,2004,Percent,0.14
+State,West Virginia,2004,Percent,0.24
+State,Washington,2004,Percent,0.17
+State,Virginia,2004,Percent,0.13
+State,Vermont,2004,Percent,0.12
+State,Texas,2004,Percent,0.23
+State,Utah,2004,Percent,0.13
+State,Tennessee,2004,Percent,0.21
+State,South Carolina,2004,Percent,0.23
+State,South Dakota,2004,Percent,0.15
+State,Rhode Island,2004,Percent,0.21
+State,Pennsylvania,2004,Percent,0.17
+State,Oregon,2004,Percent,0.19
+State,Oklahoma,2004,Percent,0.21
+State,Ohio,2004,Percent,0.18
+State,North Dakota,2004,Percent,0.16
+State,North Carolina,2004,Percent,0.22
+State,New York,2004,Percent,0.21
+State,New Mexico,2004,Percent,0.28
+State,New Jersey,2004,Percent,0.12
+State,New Hampshire,2004,Percent,0.1
+State,Nebraska,2004,Percent,0.13
+State,Nevada,2004,Percent,0.19
+State,Montana,2004,Percent,0.19
+State,Mississippi,2004,Percent,0.31
+State,Missouri,2004,Percent,0.16
+State,Minnesota,2004,Percent,0.11
+State,Michigan,2004,Percent,0.18
+State,Massachusetts,2004,Percent,0.13
+State,Maryland,2004,Percent,0.11
+State,Maine,2004,Percent,0.17
+State,Louisiana,2004,Percent,0.3
+State,Kentucky,2004,Percent,0.25
+State,Kansas,2004,Percent,0.12
+State,Iowa,2004,Percent,0.12
+State,Indiana,2004,Percent,0.15
+State,Illinois,2004,Percent,0.17
+State,Hawaii,2004,Percent,0.14
+State,Idaho,2004,Percent,0.2
+State,Georgia,2004,Percent,0.21
+City,District of Columbia,2004,Percent,0.34
+State,Florida,2004,Percent,0.18
+State,Delaware,2004,Percent,0.14
+State,Connecticut,2004,Percent,0.1
+State,Colorado,2004,Percent,0.15
+State,California,2004,Percent,0.19
+State,Arkansas,2004,Percent,0.26
+State,Arizona,2004,Percent,0.2
+State,Alaska,2004,Percent,0.11
+State,Alabama,2004,Percent,0.23
+Nation,United States,2004,Percent,0.18
+Nation,United States,2005,Percent,0.19
+State,Alabama,2005,Percent,0.25
+State,Alaska,2005,Percent,0.15
+State,Arizona,2005,Percent,0.2
+State,Arkansas,2005,Percent,0.25
+State,California,2005,Percent,0.19
+State,Connecticut,2005,Percent,0.12
+State,Colorado,2005,Percent,0.14
+State,Delaware,2005,Percent,0.14
+State,Florida,2005,Percent,0.18
+City,District of Columbia,2005,Percent,0.32
+State,Georgia,2005,Percent,0.2
+State,Idaho,2005,Percent,0.18
+State,Hawaii,2005,Percent,0.13
+State,Illinois,2005,Percent,0.16
+State,Indiana,2005,Percent,0.17
+State,Iowa,2005,Percent,0.14
+State,Kansas,2005,Percent,0.15
+State,Kentucky,2005,Percent,0.22
+State,Louisiana,2005,Percent,0.28
+State,Maine,2005,Percent,0.17
+State,Maryland,2005,Percent,0.11
+State,Michigan,2005,Percent,0.19
+State,Massachusetts,2005,Percent,0.14
+State,Minnesota,2005,Percent,0.12
+State,Missouri,2005,Percent,0.19
+State,Mississippi,2005,Percent,0.31
+State,Montana,2005,Percent,0.2
+State,Nevada,2005,Percent,0.15
+State,Nebraska,2005,Percent,0.15
+State,New Hampshire,2005,Percent,0.09
+State,New Jersey,2005,Percent,0.12
+State,New Mexico,2005,Percent,0.26
+State,New York,2005,Percent,0.19
+State,North Carolina,2005,Percent,0.21
+State,North Dakota,2005,Percent,0.13
+State,Ohio,2005,Percent,0.19
+State,Oklahoma,2005,Percent,0.23
+State,Pennsylvania,2005,Percent,0.17
+State,Oregon,2005,Percent,0.18
+State,Rhode Island,2005,Percent,0.19
+State,South Dakota,2005,Percent,0.18
+State,South Carolina,2005,Percent,0.23
+State,Tennessee,2005,Percent,0.21
+State,Utah,2005,Percent,0.11
+State,Texas,2005,Percent,0.25
+State,Vermont,2005,Percent,0.15
+State,Virginia,2005,Percent,0.13
+State,Washington,2005,Percent,0.15
+State,West Virginia,2005,Percent,0.26
+State,Wisconsin,2005,Percent,0.14
+State,Wyoming,2005,Percent,0.11
+Territory,Puerto Rico,2005,Percent,0.55
+Territory,Puerto Rico,2005,Number,544000
+State,Wyoming,2005,Number,12000
+State,Wisconsin,2005,Number,177000
+State,West Virginia,2005,Number,95000
+State,Washington,2005,Number,219000
+State,Virginia,2005,Number,238000
+State,Vermont,2005,Number,20000
+State,Utah,2005,Number,80000
+State,Texas,2005,Number,1548000
+State,Tennessee,2005,Number,291000
+State,South Dakota,2005,Number,33000
+State,South Carolina,2005,Number,229000
+State,Rhode Island,2005,Number,47000
+State,Pennsylvania,2005,Number,461000
+State,Oregon,2005,Number,152000
+State,Oklahoma,2005,Number,192000
+State,Ohio,2005,Number,506000
+State,North Dakota,2005,Number,18000
+State,North Carolina,2005,Number,449000
+State,New York,2005,Number,865000
+State,New Mexico,2005,Number,124000
+State,New Jersey,2005,Number,252000
+State,New Hampshire,2005,Number,28000
+State,Nevada,2005,Number,90000
+State,Nebraska,2005,Number,63000
+State,Montana,2005,Number,40000
+State,Missouri,2005,Number,256000
+State,Mississippi,2005,Number,226000
+State,Minnesota,2005,Number,140000
+State,Michigan,2005,Number,459000
+State,Massachusetts,2005,Number,194000
+State,Maryland,2005,Number,148000
+State,Maine,2005,Number,47000
+State,Louisiana,2005,Number,319000
+State,Kentucky,2005,Number,216000
+State,Kansas,2005,Number,100000
+State,Iowa,2005,Number,92000
+State,Indiana,2005,Number,260000
+State,Illinois,2005,Number,525000
+State,Idaho,2005,Number,65000
+State,Hawaii,2005,Number,37000
+State,Georgia,2005,Number,469000
+State,Florida,2005,Number,713000
+City,District of Columbia,2005,Number,35000
+State,Delaware,2005,Number,28000
+State,Connecticut,2005,Number,95000
+State,Colorado,2005,Number,166000
+State,California,2005,Number,1767000
+State,Arkansas,2005,Number,165000
+State,Arizona,2005,Number,315000
+State,Alaska,2005,Number,27000
+State,Alabama,2005,Number,267000
+Nation,United States,2005,Number,13360000
+Nation,United States,2006,Number,13286000
+State,Alabama,2006,Number,253000
+State,Alaska,2006,Number,26000
+State,Arizona,2006,Number,312000
+State,Arkansas,2006,Number,165000
+State,California,2006,Number,1697000
+State,Colorado,2006,Number,180000
+State,Connecticut,2006,Number,89000
+State,Delaware,2006,Number,32000
+City,District of Columbia,2006,Number,37000
+State,Florida,2006,Number,689000
+State,Georgia,2006,Number,485000
+State,Hawaii,2006,Number,33000
+State,Idaho,2006,Number,58000
+State,Illinois,2006,Number,543000
+State,Indiana,2006,Number,277000
+State,Iowa,2006,Number,96000
+State,Kansas,2006,Number,107000
+State,Kentucky,2006,Number,223000
+State,Louisiana,2006,Number,298000
+State,Maine,2006,Number,48000
+State,Maryland,2006,Number,130000
+State,Massachusetts,2006,Number,178000
+State,Michigan,2006,Number,445000
+State,Minnesota,2006,Number,152000
+State,Mississippi,2006,Number,220000
+State,Missouri,2006,Number,260000
+State,Montana,2006,Number,37000
+State,Nebraska,2006,Number,63000
+State,Nevada,2006,Number,87000
+State,New Hampshire,2006,Number,28000
+State,New Jersey,2006,Number,244000
+State,New Mexico,2006,Number,128000
+State,New York,2006,Number,888000
+State,North Carolina,2006,Number,429000
+State,North Dakota,2006,Number,18000
+State,Ohio,2006,Number,509000
+State,Oklahoma,2006,Number,213000
+State,Oregon,2006,Number,141000
+State,Pennsylvania,2006,Number,465000
+State,Rhode Island,2006,Number,35000
+State,South Carolina,2006,Number,226000
+State,South Dakota,2006,Number,32000
+State,Tennessee,2006,Number,322000
+State,Texas,2006,Number,1527000
+State,Utah,2006,Number,93000
+State,Vermont,2006,Number,17000
+State,Virginia,2006,Number,216000
+State,Washington,2006,Number,231000
+State,West Virginia,2006,Number,96000
+State,Wisconsin,2006,Number,192000
+State,Wyoming,2006,Number,14000
+Territory,Puerto Rico,2006,Number,555000
+Territory,Puerto Rico,2006,Percent,0.56
+State,Wyoming,2006,Percent,0.12
+State,Wisconsin,2006,Percent,0.15
+State,West Virginia,2006,Percent,0.25
+State,Washington,2006,Percent,0.15
+State,Virginia,2006,Percent,0.12
+State,Vermont,2006,Percent,0.13
+State,Texas,2006,Percent,0.24
+State,Utah,2006,Percent,0.12
+State,Tennessee,2006,Percent,0.23
+State,South Carolina,2006,Percent,0.22
+State,South Dakota,2006,Percent,0.17
+State,Rhode Island,2006,Percent,0.15
+State,Oregon,2006,Percent,0.17
+State,Pennsylvania,2006,Percent,0.17
+State,Oklahoma,2006,Percent,0.24
+State,Ohio,2006,Percent,0.19
+State,North Dakota,2006,Percent,0.13
+State,North Carolina,2006,Percent,0.2
+State,New York,2006,Percent,0.2
+State,New Mexico,2006,Percent,0.26
+State,New Jersey,2006,Percent,0.12
+State,New Hampshire,2006,Percent,0.1
+State,Nebraska,2006,Percent,0.14
+State,Nevada,2006,Percent,0.14
+State,Montana,2006,Percent,0.17
+State,Mississippi,2006,Percent,0.3
+State,Missouri,2006,Percent,0.19
+State,Minnesota,2006,Percent,0.12
+State,Massachusetts,2006,Percent,0.12
+State,Michigan,2006,Percent,0.18
+State,Maryland,2006,Percent,0.1
+State,Maine,2006,Percent,0.18
+State,Louisiana,2006,Percent,0.28
+State,Kentucky,2006,Percent,0.23
+State,Kansas,2006,Percent,0.16
+State,Iowa,2006,Percent,0.14
+State,Indiana,2006,Percent,0.18
+State,Illinois,2006,Percent,0.17
+State,Hawaii,2006,Percent,0.11
+State,Idaho,2006,Percent,0.15
+State,Georgia,2006,Percent,0.2
+City,District of Columbia,2006,Percent,0.33
+State,Florida,2006,Percent,0.17
+State,Delaware,2006,Percent,0.16
+State,Colorado,2006,Percent,0.16
+State,Connecticut,2006,Percent,0.11
+State,California,2006,Percent,0.18
+State,Arkansas,2006,Percent,0.24
+State,Arizona,2006,Percent,0.2
+State,Alaska,2006,Percent,0.15
+State,Alabama,2006,Percent,0.23
+Nation,United States,2006,Percent,0.18
+Nation,United States,2007,Percent,0.18
+State,Alabama,2007,Percent,0.24
+State,Alaska,2007,Percent,0.11
+State,Arkansas,2007,Percent,0.26
+State,Arizona,2007,Percent,0.2
+State,California,2007,Percent,0.17
+State,Connecticut,2007,Percent,0.11
+State,Colorado,2007,Percent,0.16
+State,Delaware,2007,Percent,0.15
+State,Florida,2007,Percent,0.17
+City,District of Columbia,2007,Percent,0.23
+State,Georgia,2007,Percent,0.2
+State,Idaho,2007,Percent,0.16
+State,Hawaii,2007,Percent,0.1
+State,Illinois,2007,Percent,0.17
+State,Indiana,2007,Percent,0.17
+State,Iowa,2007,Percent,0.14
+State,Kansas,2007,Percent,0.15
+State,Kentucky,2007,Percent,0.24
+State,Maine,2007,Percent,0.15
+State,Louisiana,2007,Percent,0.27
+State,Maryland,2007,Percent,0.1
+State,Michigan,2007,Percent,0.19
+State,Massachusetts,2007,Percent,0.13
+State,Minnesota,2007,Percent,0.12
+State,Missouri,2007,Percent,0.18
+State,Mississippi,2007,Percent,0.29
+State,Montana,2007,Percent,0.18
+State,Nevada,2007,Percent,0.15
+State,Nebraska,2007,Percent,0.15
+State,New Hampshire,2007,Percent,0.09
+State,New Jersey,2007,Percent,0.12
+State,New Mexico,2007,Percent,0.25
+State,New York,2007,Percent,0.19
+State,North Carolina,2007,Percent,0.2
+State,Ohio,2007,Percent,0.19
+State,North Dakota,2007,Percent,0.13
+State,Oklahoma,2007,Percent,0.22
+State,Pennsylvania,2007,Percent,0.16
+State,Oregon,2007,Percent,0.17
+State,Rhode Island,2007,Percent,0.17
+State,South Dakota,2007,Percent,0.17
+State,South Carolina,2007,Percent,0.21
+State,Tennessee,2007,Percent,0.23
+State,Utah,2007,Percent,0.11
+State,Texas,2007,Percent,0.23
+State,Vermont,2007,Percent,0.12
+State,Virginia,2007,Percent,0.13
+State,Washington,2007,Percent,0.15
+State,West Virginia,2007,Percent,0.23
+State,Wisconsin,2007,Percent,0.14
+Territory,Puerto Rico,2007,Percent,0.55
+State,Wyoming,2007,Percent,0.12
+Territory,Puerto Rico,2007,Number,535000
+State,Wyoming,2007,Number,14000
+State,Wisconsin,2007,Number,187000
+State,West Virginia,2007,Number,86000
+State,Washington,2007,Number,226000
+State,Virginia,2007,Number,234000
+State,Vermont,2007,Number,16000
+State,Utah,2007,Number,89000
+State,Texas,2007,Number,1513000
+State,Tennessee,2007,Number,331000
+State,South Dakota,2007,Number,33000
+State,South Carolina,2007,Number,218000
+State,Rhode Island,2007,Number,40000
+State,Pennsylvania,2007,Number,447000
+State,Oregon,2007,Number,143000
+State,Oklahoma,2007,Number,199000
+State,Ohio,2007,Number,501000
+State,North Dakota,2007,Number,19000
+State,North Carolina,2007,Number,426000
+State,New York,2007,Number,844000
+State,New Mexico,2007,Number,124000
+State,New Jersey,2007,Number,236000
+State,New Hampshire,2007,Number,26000
+State,Nevada,2007,Number,100000
+State,Nebraska,2007,Number,65000
+State,Montana,2007,Number,40000
+State,Missouri,2007,Number,248000
+State,Mississippi,2007,Number,220000
+State,Minnesota,2007,Number,149000
+State,Michigan,2007,Number,468000
+State,Massachusetts,2007,Number,182000
+State,Maryland,2007,Number,140000
+State,Maine,2007,Number,42000
+State,Louisiana,2007,Number,283000
+State,Kentucky,2007,Number,235000
+State,Kansas,2007,Number,100000
+State,Iowa,2007,Number,95000
+State,Indiana,2007,Number,268000
+State,Illinois,2007,Number,525000
+State,Idaho,2007,Number,64000
+State,Hawaii,2007,Number,28000
+State,Georgia,2007,Number,490000
+State,Florida,2007,Number,678000
+City,District of Columbia,2007,Number,26000
+State,Delaware,2007,Number,29000
+State,Connecticut,2007,Number,89000
+State,Colorado,2007,Number,192000
+State,California,2007,Number,1591000
+State,Arkansas,2007,Number,178000
+State,Arizona,2007,Number,331000
+State,Alaska,2007,Number,20000
+State,Alabama,2007,Number,269000
+Nation,United States,2007,Number,13097000
+Nation,United States,2008,Number,13241000
+State,Alabama,2008,Number,241000
+State,Alaska,2008,Number,20000
+State,Arizona,2008,Number,349000
+State,Arkansas,2008,Number,172000
+State,California,2008,Number,1701000
+State,Colorado,2008,Number,179000
+State,Connecticut,2008,Number,100000
+State,Delaware,2008,Number,28000
+City,District of Columbia,2008,Number,28000
+State,Florida,2008,Number,721000
+State,Georgia,2008,Number,502000
+State,Hawaii,2008,Number,28000
+State,Idaho,2008,Number,64000
+State,Illinois,2008,Number,535000
+State,Indiana,2008,Number,283000
+State,Iowa,2008,Number,101000
+State,Kansas,2008,Number,100000
+State,Kentucky,2008,Number,233000
+State,Louisiana,2008,Number,271000
+State,Maine,2008,Number,42000
+State,Maryland,2008,Number,135000
+State,Massachusetts,2008,Number,169000
+State,Michigan,2008,Number,458000
+State,Minnesota,2008,Number,140000
+State,Mississippi,2008,Number,229000
+State,Missouri,2008,Number,259000
+State,Montana,2008,Number,45000
+State,Nebraska,2008,Number,58000
+State,Nevada,2008,Number,99000
+State,New Hampshire,2008,Number,26000
+State,New Jersey,2008,Number,253000
+State,New Mexico,2008,Number,119000
+State,New York,2008,Number,829000
+State,North Carolina,2008,Number,440000
+State,North Dakota,2008,Number,21000
+State,Ohio,2008,Number,498000
+State,Oklahoma,2008,Number,200000
+State,Oregon,2008,Number,154000
+State,Pennsylvania,2008,Number,455000
+State,Rhode Island,2008,Number,35000
+State,South Carolina,2008,Number,228000
+State,South Dakota,2008,Number,34000
+State,Tennessee,2008,Number,316000
+State,Texas,2008,Number,1498000
+State,Utah,2008,Number,88000
+State,Vermont,2008,Number,17000
+State,Virginia,2008,Number,247000
+State,Washington,2008,Number,217000
+State,West Virginia,2008,Number,87000
+State,Wisconsin,2008,Number,172000
+State,Wyoming,2008,Number,15000
+Territory,Puerto Rico,2008,Number,545000
+State,Wyoming,2008,Percent,0.12
+Territory,Puerto Rico,2008,Percent,0.56
+State,Wisconsin,2008,Percent,0.13
+State,West Virginia,2008,Percent,0.23
+State,Washington,2008,Percent,0.14
+State,Virginia,2008,Percent,0.14
+State,Vermont,2008,Percent,0.13
+State,Texas,2008,Percent,0.23
+State,Utah,2008,Percent,0.11
+State,Tennessee,2008,Percent,0.22
+State,South Carolina,2008,Percent,0.22
+State,South Dakota,2008,Percent,0.18
+State,Rhode Island,2008,Percent,0.15
+State,Oregon,2008,Percent,0.18
+State,Pennsylvania,2008,Percent,0.17
+State,Oklahoma,2008,Percent,0.23
+State,North Dakota,2008,Percent,0.15
+State,Ohio,2008,Percent,0.19
+State,North Carolina,2008,Percent,0.2
+State,New York,2008,Percent,0.19
+State,New Mexico,2008,Percent,0.24
+State,New Jersey,2008,Percent,0.13
+State,New Hampshire,2008,Percent,0.09
+State,Nebraska,2008,Percent,0.13
+State,Nevada,2008,Percent,0.15
+State,Montana,2008,Percent,0.21
+State,Mississippi,2008,Percent,0.3
+State,Missouri,2008,Percent,0.19
+State,Minnesota,2008,Percent,0.11
+State,Massachusetts,2008,Percent,0.12
+State,Michigan,2008,Percent,0.19
+State,Maryland,2008,Percent,0.1
+State,Louisiana,2008,Percent,0.25
+State,Maine,2008,Percent,0.16
+State,Kentucky,2008,Percent,0.23
+State,Kansas,2008,Percent,0.15
+State,Iowa,2008,Percent,0.14
+State,Indiana,2008,Percent,0.18
+State,Illinois,2008,Percent,0.17
+State,Hawaii,2008,Percent,0.1
+State,Idaho,2008,Percent,0.16
+State,Georgia,2008,Percent,0.2
+City,District of Columbia,2008,Percent,0.26
+State,Florida,2008,Percent,0.18
+State,Delaware,2008,Percent,0.14
+State,Colorado,2008,Percent,0.15
+State,Connecticut,2008,Percent,0.12
+State,California,2008,Percent,0.18
+State,Arizona,2008,Percent,0.21
+State,Arkansas,2008,Percent,0.25
+State,Alaska,2008,Percent,0.11
+State,Alabama,2008,Percent,0.22
+Nation,United States,2008,Percent,0.18
+State,Alabama,2013,Percent,0.27
+Nation,United States,2013,Percent,0.22
+State,Alaska,2013,Percent,0.12
+State,Arkansas,2013,Percent,0.29
+State,Arizona,2013,Percent,0.26
+State,California,2013,Percent,0.23
+State,Connecticut,2013,Percent,0.15
+State,Colorado,2013,Percent,0.17
+State,Delaware,2013,Percent,0.18
+City,District of Columbia,2013,Percent,0.27
+State,Georgia,2013,Percent,0.27
+State,Florida,2013,Percent,0.24
+State,Hawaii,2013,Percent,0.13
+State,Illinois,2013,Percent,0.21
+State,Idaho,2013,Percent,0.19
+State,Indiana,2013,Percent,0.22
+State,Kansas,2013,Percent,0.19
+State,Iowa,2013,Percent,0.16
+State,Kentucky,2013,Percent,0.25
+State,Maine,2013,Percent,0.18
+State,Louisiana,2013,Percent,0.28
+State,Maryland,2013,Percent,0.14
+State,Michigan,2013,Percent,0.24
+State,Massachusetts,2013,Percent,0.16
+State,Minnesota,2013,Percent,0.14
+State,Mississippi,2013,Percent,0.34
+State,Montana,2013,Percent,0.21
+State,Missouri,2013,Percent,0.22
+State,Nebraska,2013,Percent,0.18
+State,New Hampshire,2013,Percent,0.1
+State,Nevada,2013,Percent,0.23
+State,New Jersey,2013,Percent,0.17
+State,New York,2013,Percent,0.23
+State,New Mexico,2013,Percent,0.31
+State,North Carolina,2013,Percent,0.25
+State,Ohio,2013,Percent,0.23
+State,North Dakota,2013,Percent,0.12
+State,Oklahoma,2013,Percent,0.24
+State,Pennsylvania,2013,Percent,0.19
+State,Oregon,2013,Percent,0.22
+State,Rhode Island,2013,Percent,0.22
+State,South Carolina,2013,Percent,0.27
+State,Tennessee,2013,Percent,0.27
+State,South Dakota,2013,Percent,0.19
+State,Texas,2013,Percent,0.25
+State,Vermont,2013,Percent,0.15
+State,Utah,2013,Percent,0.15
+State,Virginia,2013,Percent,0.16
+State,West Virginia,2013,Percent,0.27
+State,Washington,2013,Percent,0.19
+State,Wisconsin,2013,Percent,0.18
+Territory,Puerto Rico,2013,Percent,0.57
+State,Wyoming,2013,Percent,0.13
+State,Wyoming,2013,Number,18000
+Territory,Puerto Rico,2013,Number,463000
+State,Wisconsin,2013,Number,237000
+State,Washington,2013,Number,295000
+State,West Virginia,2013,Number,100000
+State,Virginia,2013,Number,288000
+State,Vermont,2013,Number,19000
+State,Utah,2013,Number,130000
+State,Texas,2013,Number,1741000
+State,Tennessee,2013,Number,390000
+State,South Dakota,2013,Number,38000
+State,Rhode Island,2013,Number,45000
+State,South Carolina,2013,Number,292000
+State,Pennsylvania,2013,Number,516000
+State,Oregon,2013,Number,182000
+State,Oklahoma,2013,Number,223000
+State,Ohio,2013,Number,591000
+State,North Dakota,2013,Number,19000
+State,North Carolina,2013,Number,566000
+State,New Mexico,2013,Number,157000
+State,New York,2013,Number,950000
+State,New Jersey,2013,Number,333000
+State,New Hampshire,2013,Number,27000
+State,Nevada,2013,Number,148000
+State,Nebraska,2013,Number,81000
+State,Montana,2013,Number,47000
+State,Missouri,2013,Number,304000
+State,Minnesota,2013,Number,177000
+State,Mississippi,2013,Number,246000
+State,Michigan,2013,Number,524000
+State,Massachusetts,2013,Number,223000
+State,Maryland,2013,Number,180000
+State,Maine,2013,Number,45000
+State,Louisiana,2013,Number,304000
+State,Kentucky,2013,Number,251000
+State,Iowa,2013,Number,115000
+State,Kansas,2013,Number,132000
+State,Indiana,2013,Number,345000
+State,Illinois,2013,Number,616000
+State,Idaho,2013,Number,81000
+State,Hawaii,2013,Number,40000
+State,Georgia,2013,Number,651000
+State,Florida,2013,Number,969000
+State,Delaware,2013,Number,36000
+City,District of Columbia,2013,Number,30000
+State,Connecticut,2013,Number,113000
+State,Colorado,2013,Number,207000
+State,California,2013,Number,2121000
+State,Arkansas,2013,Number,202000
+State,Arizona,2013,Number,421000
+State,Alaska,2013,Number,22000
+Nation,United States,2013,Number,16087000
+State,Alabama,2013,Number,298000
+Nation,United States,2018,Number,12998000
+State,Alabama,2018,Number,255000
+State,Alaska,2018,Number,25000
+State,Arizona,2018,Number,325000
+State,Arkansas,2018,Number,171000
+State,California,2018,Number,1541000
+State,Colorado,2018,Number,149000
+State,Connecticut,2018,Number,102000
+State,Delaware,2018,Number,37000
+City,District of Columbia,2018,Number,29000
+State,Florida,2018,Number,819000
+State,Georgia,2018,Number,505000
+State,Hawaii,2018,Number,35000
+State,Idaho,2018,Number,63000
+State,Illinois,2018,Number,457000
+State,Indiana,2018,Number,275000
+State,Iowa,2018,Number,97000
+State,Kansas,2018,Number,103000
+State,Kentucky,2018,Number,226000
+State,Louisiana,2018,Number,283000
+State,Maine,2018,Number,35000
+State,Maryland,2018,Number,152000
+State,Massachusetts,2018,Number,164000
+State,Michigan,2018,Number,413000
+State,Minnesota,2018,Number,150000
+State,Mississippi,2018,Number,193000
+State,Missouri,2018,Number,247000
+State,Montana,2018,Number,36000
+State,Nebraska,2018,Number,60000
+State,Nevada,2018,Number,120000
+State,New Hampshire,2018,Number,27000
+State,New Jersey,2018,Number,264000
+State,New Mexico,2018,Number,124000
+State,New York,2018,Number,743000
+State,North Carolina,2018,Number,456000
+State,North Dakota,2018,Number,17000
+State,Ohio,2018,Number,496000
+State,Oklahoma,2018,Number,203000
+State,Oregon,2018,Number,134000
+State,Pennsylvania,2018,Number,435000
+State,Rhode Island,2018,Number,36000
+State,South Carolina,2018,Number,246000
+State,South Dakota,2018,Number,34000
+State,Tennessee,2018,Number,331000
+State,Texas,2018,Number,1545000
+State,Utah,2018,Number,87000
+State,Vermont,2018,Number,14000
+State,Virginia,2018,Number,252000
+State,Washington,2018,Number,204000
+State,West Virginia,2018,Number,87000
+State,Wyoming,2018,Number,18000
+Territory,Puerto Rico,2018,Number,335000
+Territory,Puerto Rico,2018,Percent,0.57
+State,Wisconsin,2018,Number,175000
+State,Wyoming,2018,Percent,0.14
+State,Wisconsin,2018,Percent,0.14
+State,Washington,2018,Percent,0.13
+State,West Virginia,2018,Percent,0.25
+State,Virginia,2018,Percent,0.14
+State,Utah,2018,Percent,0.1
+State,Vermont,2018,Percent,0.12
+State,Texas,2018,Percent,0.21
+State,South Dakota,2018,Percent,0.16
+State,Tennessee,2018,Percent,0.22
+State,South Carolina,2018,Percent,0.23
+State,Rhode Island,2018,Percent,0.18
+State,Pennsylvania,2018,Percent,0.17
+State,Oregon,2018,Percent,0.16
+State,Oklahoma,2018,Percent,0.22
+State,Ohio,2018,Percent,0.2
+State,North Dakota,2018,Percent,0.1
+State,North Carolina,2018,Percent,0.2
+State,New Mexico,2018,Percent,0.26
+State,New York,2018,Percent,0.19
+State,New Jersey,2018,Percent,0.14
+State,Nevada,2018,Percent,0.18
+State,New Hampshire,2018,Percent,0.11
+State,Nebraska,2018,Percent,0.13
+State,Missouri,2018,Percent,0.18
+State,Montana,2018,Percent,0.16
+State,Mississippi,2018,Percent,0.28
+State,Minnesota,2018,Percent,0.12
+State,Michigan,2018,Percent,0.19
+State,Massachusetts,2018,Percent,0.12
+State,Maryland,2018,Percent,0.12
+State,Maine,2018,Percent,0.14
+State,Louisiana,2018,Percent,0.26
+State,Kentucky,2018,Percent,0.23
+State,Iowa,2018,Percent,0.14
+State,Kansas,2018,Percent,0.15
+State,Indiana,2018,Percent,0.18
+State,Idaho,2018,Percent,0.14
+State,Illinois,2018,Percent,0.16
+State,Hawaii,2018,Percent,0.12
+State,Florida,2018,Percent,0.2
+State,Georgia,2018,Percent,0.2
+City,District of Columbia,2018,Percent,0.23
+State,Delaware,2018,Percent,0.19
+State,Connecticut,2018,Percent,0.14
+State,Colorado,2018,Percent,0.12
+State,California,2018,Percent,0.17
+State,Arkansas,2018,Percent,0.25
+State,Arizona,2018,Percent,0.2
+State,Alaska,2018,Percent,0.14
+Nation,United States,2018,Percent,0.18
+State,Alabama,2018,Percent,0.24
+State,Alabama,2009,Percent,0.25
+Nation,United States,2009,Percent,0.2
+State,Alaska,2009,Percent,0.13
+State,Arizona,2009,Percent,0.23
+State,Arkansas,2009,Percent,0.27
+State,California,2009,Percent,0.2
+State,Colorado,2009,Percent,0.17
+State,Connecticut,2009,Percent,0.12
+State,Delaware,2009,Percent,0.16
+City,District of Columbia,2009,Percent,0.29
+State,Florida,2009,Percent,0.21
+State,Georgia,2009,Percent,0.22
+State,Idaho,2009,Percent,0.18
+State,Hawaii,2009,Percent,0.14
+State,Illinois,2009,Percent,0.19
+State,Indiana,2009,Percent,0.2
+State,Kansas,2009,Percent,0.18
+State,Iowa,2009,Percent,0.16
+State,Kentucky,2009,Percent,0.26
+State,Louisiana,2009,Percent,0.24
+State,Maine,2009,Percent,0.17
+State,Maryland,2009,Percent,0.12
+State,Massachusetts,2009,Percent,0.13
+State,Michigan,2009,Percent,0.23
+State,Minnesota,2009,Percent,0.14
+State,Mississippi,2009,Percent,0.31
+State,Missouri,2009,Percent,0.21
+State,Montana,2009,Percent,0.21
+State,Nevada,2009,Percent,0.18
+State,Nebraska,2009,Percent,0.15
+State,New Hampshire,2009,Percent,0.11
+State,New Jersey,2009,Percent,0.13
+State,New York,2009,Percent,0.2
+State,New Mexico,2009,Percent,0.25
+State,North Carolina,2009,Percent,0.23
+State,North Dakota,2009,Percent,0.13
+State,Ohio,2009,Percent,0.22
+State,Oklahoma,2009,Percent,0.22
+State,Oregon,2009,Percent,0.19
+State,Pennsylvania,2009,Percent,0.17
+State,Rhode Island,2009,Percent,0.17
+State,South Carolina,2009,Percent,0.24
+State,South Dakota,2009,Percent,0.19
+State,Tennessee,2009,Percent,0.24
+State,Utah,2009,Percent,0.12
+State,Texas,2009,Percent,0.24
+State,Vermont,2009,Percent,0.13
+State,Virginia,2009,Percent,0.14
+State,West Virginia,2009,Percent,0.24
+State,Washington,2009,Percent,0.16
+State,Wisconsin,2009,Percent,0.17
+State,Wyoming,2009,Percent,0.13
+Territory,Puerto Rico,2009,Percent,0.57
+Territory,Puerto Rico,2009,Number,543000
+State,Wyoming,2009,Number,16000
+State,Wisconsin,2009,Number,214000
+State,Virginia,2009,Number,253000
+State,West Virginia,2009,Number,89000
+State,Washington,2009,Number,251000
+State,Vermont,2009,Number,16000
+State,Utah,2009,Number,105000
+State,Texas,2009,Number,1661000
+State,Tennessee,2009,Number,350000
+State,South Dakota,2009,Number,35000
+State,South Carolina,2009,Number,259000
+State,Rhode Island,2009,Number,38000
+State,Pennsylvania,2009,Number,467000
+State,Oregon,2009,Number,164000
+State,Oklahoma,2009,Number,201000
+State,Ohio,2009,Number,584000
+State,North Dakota,2009,Number,18000
+State,North Carolina,2009,Number,505000
+State,New York,2009,Number,868000
+State,New Mexico,2009,Number,128000
+State,New Jersey,2009,Number,273000
+State,New Hampshire,2009,Number,31000
+State,Nevada,2009,Number,118000
+State,Nebraska,2009,Number,66000
+State,Montana,2009,Number,46000
+State,Missouri,2009,Number,291000
+State,Mississippi,2009,Number,233000
+State,Minnesota,2009,Number,174000
+State,Michigan,2009,Number,520000
+State,Massachusetts,2009,Number,186000
+State,Maryland,2009,Number,154000
+State,Maine,2009,Number,45000
+State,Louisiana,2009,Number,268000
+State,Kentucky,2009,Number,255000
+State,Indiana,2009,Number,311000
+State,Kansas,2009,Number,121000
+State,Iowa,2009,Number,109000
+State,Illinois,2009,Number,591000
+State,Idaho,2009,Number,75000
+State,Hawaii,2009,Number,39000
+State,Georgia,2009,Number,568000
+State,Florida,2009,Number,852000
+City,District of Columbia,2009,Number,33000
+State,Delaware,2009,Number,34000
+State,Connecticut,2009,Number,97000
+State,Colorado,2009,Number,210000
+State,California,2009,Number,1847000
+State,Arkansas,2009,Number,189000
+State,Arizona,2009,Number,398000
+State,Alaska,2009,Number,23000
+State,Alabama,2009,Number,275000
+Nation,United States,2009,Number,14657000
+Nation,United States,2010,Number,15749000
+State,Alabama,2010,Number,311000
+State,Alaska,2010,Number,24000
+State,Arizona,2010,Number,392000
+State,Arkansas,2010,Number,193000
+State,California,2010,Number,2013000
+State,Colorado,2010,Number,211000
+State,Connecticut,2010,Number,103000
+State,Delaware,2010,Number,37000
+City,District of Columbia,2010,Number,31000
+State,Florida,2010,Number,924000
+State,Georgia,2010,Number,611000
+State,Hawaii,2010,Number,41000
+State,Idaho,2010,Number,80000
+State,Illinois,2010,Number,600000
+State,Iowa,2010,Number,115000
+State,Kansas,2010,Number,131000
+State,Indiana,2010,Number,342000
+State,Kentucky,2010,Number,263000
+State,Louisiana,2010,Number,300000
+State,Maine,2010,Number,48000
+State,Maryland,2010,Number,173000
+State,Massachusetts,2010,Number,201000
+State,Michigan,2010,Number,539000
+State,Minnesota,2010,Number,192000
+State,Mississippi,2010,Number,242000
+State,Missouri,2010,Number,291000
+State,Montana,2010,Number,44000
+State,Nebraska,2010,Number,82000
+State,Nevada,2010,Number,144000
+State,New Hampshire,2010,Number,28000
+State,New Jersey,2010,Number,295000
+State,New Mexico,2010,Number,154000
+State,New York,2010,Number,901000
+State,North Carolina,2010,Number,560000
+State,North Dakota,2010,Number,24000
+State,Ohio,2010,Number,624000
+State,Oklahoma,2010,Number,227000
+State,Oregon,2010,Number,184000
+State,Pennsylvania,2010,Number,522000
+State,Rhode Island,2010,Number,42000
+State,South Carolina,2010,Number,278000
+State,South Dakota,2010,Number,36000
+State,Tennessee,2010,Number,377000
+State,Texas,2010,Number,1751000
+State,Utah,2010,Number,136000
+State,Vermont,2010,Number,21000
+State,Washington,2010,Number,284000
+State,West Virginia,2010,Number,96000
+State,Virginia,2010,Number,265000
+State,Wisconsin,2010,Number,250000
+State,Wyoming,2010,Number,19000
+Territory,Puerto Rico,2010,Number,500000
+Territory,Puerto Rico,2010,Percent,0.56
+State,Wyoming,2010,Percent,0.14
+State,Wisconsin,2010,Percent,0.19
+State,Washington,2010,Percent,0.18
+State,West Virginia,2010,Percent,0.25
+State,Virginia,2010,Percent,0.14
+State,Vermont,2010,Percent,0.17
+State,Texas,2010,Percent,0.26
+State,Utah,2010,Percent,0.16
+State,Tennessee,2010,Percent,0.26
+State,South Dakota,2010,Percent,0.18
+State,South Carolina,2010,Percent,0.26
+State,Rhode Island,2010,Percent,0.19
+State,Pennsylvania,2010,Percent,0.19
+State,Oregon,2010,Percent,0.22
+State,Oklahoma,2010,Percent,0.25
+State,Ohio,2010,Percent,0.23
+State,North Dakota,2010,Percent,0.16
+State,North Carolina,2010,Percent,0.25
+State,New Mexico,2010,Percent,0.3
+State,New York,2010,Percent,0.21
+State,New Jersey,2010,Percent,0.14
+State,New Hampshire,2010,Percent,0.1
+State,Nebraska,2010,Percent,0.18
+State,Nevada,2010,Percent,0.22
+State,Montana,2010,Percent,0.2
+State,Missouri,2010,Percent,0.21
+State,Mississippi,2010,Percent,0.33
+State,Minnesota,2010,Percent,0.15
+State,Michigan,2010,Percent,0.23
+State,Massachusetts,2010,Percent,0.14
+State,Maryland,2010,Percent,0.13
+State,Maine,2010,Percent,0.18
+State,Louisiana,2010,Percent,0.27
+State,Kentucky,2010,Percent,0.26
+State,Iowa,2010,Percent,0.16
+State,Kansas,2010,Percent,0.18
+State,Indiana,2010,Percent,0.22
+State,Illinois,2010,Percent,0.19
+State,Hawaii,2010,Percent,0.14
+State,Idaho,2010,Percent,0.19
+State,Georgia,2010,Percent,0.25
+State,Florida,2010,Percent,0.23
+City,District of Columbia,2010,Percent,0.3
+State,Delaware,2010,Percent,0.18
+State,Connecticut,2010,Percent,0.13
+State,Colorado,2010,Percent,0.17
+State,California,2010,Percent,0.22
+State,Arkansas,2010,Percent,0.28
+State,Arizona,2010,Percent,0.24
+State,Alaska,2010,Percent,0.13
+Nation,United States,2010,Percent,0.22
+State,Alabama,2010,Percent,0.28
+State,Alabama,2015,Percent,0.27
+Nation,United States,2015,Percent,0.21
+State,Alaska,2015,Percent,0.15
+State,Arizona,2015,Percent,0.25
+State,Arkansas,2015,Percent,0.27
+State,California,2015,Percent,0.21
+State,Colorado,2015,Percent,0.15
+State,Delaware,2015,Percent,0.19
+State,Connecticut,2015,Percent,0.15
+City,District of Columbia,2015,Percent,0.26
+State,Georgia,2015,Percent,0.24
+State,Florida,2015,Percent,0.23
+State,Hawaii,2015,Percent,0.14
+State,Illinois,2015,Percent,0.19
+State,Idaho,2015,Percent,0.18
+State,Indiana,2015,Percent,0.21
+State,Kansas,2015,Percent,0.17
+State,Iowa,2015,Percent,0.15
+State,Kentucky,2015,Percent,0.26
+State,Louisiana,2015,Percent,0.28
+State,Maine,2015,Percent,0.17
+State,Maryland,2015,Percent,0.13
+State,Massachusetts,2015,Percent,0.15
+State,Minnesota,2015,Percent,0.13
+State,Michigan,2015,Percent,0.22
+State,Mississippi,2015,Percent,0.31
+State,Montana,2015,Percent,0.19
+State,Missouri,2015,Percent,0.2
+State,Nebraska,2015,Percent,0.17
+State,New Hampshire,2015,Percent,0.11
+State,Nevada,2015,Percent,0.21
+State,New Jersey,2015,Percent,0.16
+State,New York,2015,Percent,0.22
+State,New Mexico,2015,Percent,0.29
+State,North Carolina,2015,Percent,0.23
+State,North Dakota,2015,Percent,0.12
+State,Ohio,2015,Percent,0.21
+State,Oklahoma,2015,Percent,0.22
+State,Oregon,2015,Percent,0.2
+State,Rhode Island,2015,Percent,0.19
+State,Pennsylvania,2015,Percent,0.19
+State,South Carolina,2015,Percent,0.24
+State,Tennessee,2015,Percent,0.24
+State,South Dakota,2015,Percent,0.18
+State,Texas,2015,Percent,0.23
+State,Vermont,2015,Percent,0.13
+State,Utah,2015,Percent,0.13
+State,Virginia,2015,Percent,0.15
+State,West Virginia,2015,Percent,0.25
+State,Washington,2015,Percent,0.16
+State,Wisconsin,2015,Percent,0.16
+State,Wyoming,2015,Percent,0.13
+Territory,Puerto Rico,2015,Percent,0.58
+State,Wisconsin,2015,Number,207000
+State,Wyoming,2015,Number,18000
+Territory,Puerto Rico,2015,Number,428000
+State,West Virginia,2015,Number,94000
+State,Washington,2015,Number,246000
+State,Virginia,2015,Number,273000
+State,Vermont,2015,Number,15000
+State,Utah,2015,Number,116000
+State,Texas,2015,Number,1637000
+State,South Dakota,2015,Number,37000
+State,Tennessee,2015,Number,355000
+State,South Carolina,2015,Number,256000
+State,Rhode Island,2015,Number,41000
+State,Pennsylvania,2015,Number,513000
+State,Oregon,2015,Number,171000
+State,Oklahoma,2015,Number,209000
+State,Ohio,2015,Number,550000
+State,North Carolina,2015,Number,530000
+State,North Dakota,2015,Number,20000
+State,New York,2015,Number,910000
+State,New Mexico,2015,Number,141000
+State,New Jersey,2015,Number,308000
+State,New Hampshire,2015,Number,28000
+State,Nevada,2015,Number,137000
+State,Nebraska,2015,Number,78000
+State,Missouri,2015,Number,276000
+State,Montana,2015,Number,43000
+State,Mississippi,2015,Number,224000
+State,Minnesota,2015,Number,165000
+State,Michigan,2015,Number,486000
+State,Massachusetts,2015,Number,203000
+State,Maryland,2015,Number,175000
+State,Maine,2015,Number,43000
+State,Kentucky,2015,Number,256000
+State,Louisiana,2015,Number,313000
+State,Kansas,2015,Number,122000
+State,Iowa,2015,Number,106000
+State,Indiana,2015,Number,323000
+State,Illinois,2015,Number,559000
+State,Idaho,2015,Number,76000
+State,Hawaii,2015,Number,43000
+State,Florida,2015,Number,932000
+State,Georgia,2015,Number,603000
+City,District of Columbia,2015,Number,30000
+State,Delaware,2015,Number,39000
+State,Connecticut,2015,Number,109000
+State,Colorado,2015,Number,183000
+State,California,2015,Number,1902000
+State,Arkansas,2015,Number,188000
+State,Alaska,2015,Number,28000
+State,Arizona,2015,Number,394000
+State,Alabama,2015,Number,291000
+Nation,United States,2015,Number,15000000
+State,Alaska,2011,Number,27000
+State,Alabama,2011,Number,307000
+Nation,United States,2011,Number,16387000
+State,Arizona,2011,Number,435000
+State,Arkansas,2011,Number,197000
+State,California,2011,Number,2085000
+State,Colorado,2011,Number,217000
+State,Connecticut,2011,Number,119000
+State,Delaware,2011,Number,35000
+City,District of Columbia,2011,Number,32000
+State,Florida,2011,Number,980000
+State,Georgia,2011,Number,647000
+State,Hawaii,2011,Number,51000
+State,Idaho,2011,Number,85000
+State,Illinois,2011,Number,658000
+State,Indiana,2011,Number,361000
+State,Kansas,2011,Number,134000
+State,Iowa,2011,Number,123000
+State,Kentucky,2011,Number,275000
+State,Louisiana,2011,Number,317000
+State,Maine,2011,Number,50000
+State,Maryland,2011,Number,179000
+State,Massachusetts,2011,Number,212000
+State,Michigan,2011,Number,560000
+State,Minnesota,2011,Number,194000
+State,Mississippi,2011,Number,236000
+State,Missouri,2011,Number,306000
+State,Montana,2011,Number,43000
+State,Nebraska,2011,Number,82000
+State,Nevada,2011,Number,144000
+State,New Hampshire,2011,Number,33000
+State,New Jersey,2011,Number,296000
+State,North Carolina,2011,Number,580000
+State,New York,2011,Number,951000
+State,New Mexico,2011,Number,157000
+State,North Dakota,2011,Number,22000
+State,Ohio,2011,Number,641000
+State,Oklahoma,2011,Number,216000
+State,Oregon,2011,Number,199000
+State,Pennsylvania,2011,Number,532000
+State,Rhode Island,2011,Number,47000
+State,South Carolina,2011,Number,297000
+State,South Dakota,2011,Number,36000
+State,Tennessee,2011,Number,386000
+State,Texas,2011,Number,1829000
+State,Utah,2011,Number,138000
+State,Vermont,2011,Number,18000
+State,Virginia,2011,Number,280000
+State,West Virginia,2011,Number,98000
+State,Washington,2011,Number,283000
+State,Wisconsin,2011,Number,237000
+State,Wyoming,2011,Number,21000
+Territory,Puerto Rico,2011,Number,499000
+Territory,Puerto Rico,2011,Percent,0.57
+State,Wyoming,2011,Percent,0.16
+State,Wisconsin,2011,Percent,0.18
+State,Washington,2011,Percent,0.18
+State,West Virginia,2011,Percent,0.26
+State,Virginia,2011,Percent,0.15
+State,Utah,2011,Percent,0.16
+State,Vermont,2011,Percent,0.15
+State,Texas,2011,Percent,0.27
+State,Tennessee,2011,Percent,0.26
+State,South Carolina,2011,Percent,0.28
+State,South Dakota,2011,Percent,0.18
+State,Rhode Island,2011,Percent,0.22
+State,Oregon,2011,Percent,0.24
+State,Pennsylvania,2011,Percent,0.2
+State,Oklahoma,2011,Percent,0.23
+State,Ohio,2011,Percent,0.24
+State,North Dakota,2011,Percent,0.15
+State,North Carolina,2011,Percent,0.26
+State,New Mexico,2011,Percent,0.31
+State,New York,2011,Percent,0.23
+State,New Jersey,2011,Percent,0.15
+State,Nevada,2011,Percent,0.22
+State,New Hampshire,2011,Percent,0.12
+State,Nebraska,2011,Percent,0.18
+State,Montana,2011,Percent,0.2
+State,Mississippi,2011,Percent,0.32
+State,Missouri,2011,Percent,0.22
+State,Minnesota,2011,Percent,0.15
+State,Massachusetts,2011,Percent,0.15
+State,Michigan,2011,Percent,0.25
+State,Maryland,2011,Percent,0.14
+State,Maine,2011,Percent,0.19
+State,Louisiana,2011,Percent,0.29
+State,Kentucky,2011,Percent,0.27
+State,Iowa,2011,Percent,0.17
+State,Kansas,2011,Percent,0.19
+State,Indiana,2011,Percent,0.23
+State,Idaho,2011,Percent,0.2
+State,Illinois,2011,Percent,0.22
+State,Hawaii,2011,Percent,0.17
+State,Georgia,2011,Percent,0.26
+City,District of Columbia,2011,Percent,0.3
+State,Florida,2011,Percent,0.25
+State,Delaware,2011,Percent,0.17
+State,Colorado,2011,Percent,0.18
+State,Connecticut,2011,Percent,0.15
+State,California,2011,Percent,0.23
+State,Arkansas,2011,Percent,0.28
+State,Arizona,2011,Percent,0.27
+State,Alaska,2011,Percent,0.15
+Nation,United States,2011,Percent,0.23
+State,Alabama,2011,Percent,0.28
+State,Alabama,2012,Percent,0.27
+Nation,United States,2012,Percent,0.23
+State,Alaska,2012,Percent,0.14
+State,Arizona,2012,Percent,0.27
+State,Arkansas,2012,Percent,0.29
+State,California,2012,Percent,0.24
+State,Connecticut,2012,Percent,0.15
+State,Colorado,2012,Percent,0.18
+State,Delaware,2012,Percent,0.17
+City,District of Columbia,2012,Percent,0.27
+State,Georgia,2012,Percent,0.27
+State,Florida,2012,Percent,0.25
+State,Hawaii,2012,Percent,0.17
+State,Illinois,2012,Percent,0.21
+State,Idaho,2012,Percent,0.21
+State,Indiana,2012,Percent,0.22
+State,Kansas,2012,Percent,0.19
+State,Iowa,2012,Percent,0.16
+State,Kentucky,2012,Percent,0.27
+State,Louisiana,2012,Percent,0.28
+State,Maine,2012,Percent,0.21
+State,Maryland,2012,Percent,0.14
+State,Michigan,2012,Percent,0.25
+State,Massachusetts,2012,Percent,0.15
+State,Minnesota,2012,Percent,0.15
+State,Mississippi,2012,Percent,0.35
+State,Montana,2012,Percent,0.2
+State,Missouri,2012,Percent,0.23
+State,Nebraska,2012,Percent,0.18
+State,New Hampshire,2012,Percent,0.16
+State,Nevada,2012,Percent,0.24
+State,New Jersey,2012,Percent,0.15
+State,New York,2012,Percent,0.23
+State,New Mexico,2012,Percent,0.29
+State,North Carolina,2012,Percent,0.26
+State,North Dakota,2012,Percent,0.13
+State,Ohio,2012,Percent,0.24
+State,Oklahoma,2012,Percent,0.24
+State,Pennsylvania,2012,Percent,0.2
+State,Oregon,2012,Percent,0.23
+State,Rhode Island,2012,Percent,0.19
+State,South Carolina,2012,Percent,0.27
+State,Tennessee,2012,Percent,0.26
+State,South Dakota,2012,Percent,0.17
+State,Texas,2012,Percent,0.26
+State,Vermont,2012,Percent,0.15
+State,Utah,2012,Percent,0.15
+State,Virginia,2012,Percent,0.15
+State,West Virginia,2012,Percent,0.25
+State,Washington,2012,Percent,0.19
+State,Wisconsin,2012,Percent,0.18
+State,Wyoming,2012,Percent,0.17
+Territory,Puerto Rico,2012,Percent,0.56
+Territory,Puerto Rico,2012,Number,475000
+State,Wyoming,2012,Number,22000
+State,Wisconsin,2012,Number,235000
+State,Washington,2012,Number,288000
+State,West Virginia,2012,Number,92000
+State,Virginia,2012,Number,279000
+State,Vermont,2012,Number,19000
+State,Utah,2012,Number,132000
+State,Texas,2012,Number,1777000
+State,Tennessee,2012,Number,379000
+State,South Dakota,2012,Number,35000
+State,South Carolina,2012,Number,288000
+State,Rhode Island,2012,Number,42000
+State,Pennsylvania,2012,Number,532000
+State,Oregon,2012,Number,195000
+State,Oklahoma,2012,Number,222000
+State,Ohio,2012,Number,621000
+State,North Dakota,2012,Number,20000
+State,New Mexico,2012,Number,149000
+State,New York,2012,Number,959000
+State,North Carolina,2012,Number,586000
+State,New Jersey,2012,Number,310000
+State,New Hampshire,2012,Number,42000
+State,Nevada,2012,Number,157000
+State,Nebraska,2012,Number,81000
+State,Montana,2012,Number,44000
+State,Missouri,2012,Number,310000
+State,Mississippi,2012,Number,256000
+State,Minnesota,2012,Number,184000
+State,Michigan,2012,Number,554000
+State,Massachusetts,2012,Number,213000
+State,Maryland,2012,Number,183000
+State,Maine,2012,Number,54000
+State,Louisiana,2012,Number,310000
+State,Kentucky,2012,Number,264000
+State,Iowa,2012,Number,113000
+State,Kansas,2012,Number,135000
+State,Indiana,2012,Number,350000
+State,Illinois,2012,Number,624000
+State,Idaho,2012,Number,87000
+State,Hawaii,2012,Number,51000
+State,Georgia,2012,Number,672000
+State,Florida,2012,Number,1001000
+City,District of Columbia,2012,Number,29000
+State,Delaware,2012,Number,35000
+State,Connecticut,2012,Number,117000
+State,Colorado,2012,Number,224000
+State,California,2012,Number,2167000
+State,Arkansas,2012,Number,200000
+State,Arizona,2012,Number,429000
+Nation,United States,2012,Number,16397000
+State,Alabama,2012,Number,306000
+State,Alaska,2012,Number,26000
+Nation,United States,2014,Number,15686000
+State,Alabama,2014,Number,303000
+State,Alaska,2014,Number,29000
+State,Arizona,2014,Number,408000
+State,Arkansas,2014,Number,184000
+State,California,2014,Number,2047000
+State,Colorado,2014,Number,190000
+State,Connecticut,2014,Number,114000
+State,Delaware,2014,Number,35000
+City,District of Columbia,2014,Number,29000
+State,Florida,2014,Number,948000
+State,Georgia,2014,Number,646000
+State,Hawaii,2014,Number,44000
+State,Idaho,2014,Number,80000
+State,Illinois,2014,Number,593000
+State,Indiana,2014,Number,333000
+State,Iowa,2014,Number,109000
+State,Kansas,2014,Number,126000
+State,Kentucky,2014,Number,260000
+State,Louisiana,2014,Number,306000
+State,Maine,2014,Number,48000
+State,Maryland,2014,Number,173000
+State,Massachusetts,2014,Number,208000
+State,Michigan,2014,Number,493000
+State,Minnesota,2014,Number,189000
+State,Mississippi,2014,Number,212000
+State,Missouri,2014,Number,287000
+State,Montana,2014,Number,41000
+State,Nebraska,2014,Number,74000
+State,Nevada,2014,Number,144000
+State,New Hampshire,2014,Number,34000
+State,New Jersey,2014,Number,316000
+State,New Mexico,2014,Number,146000
+State,New York,2014,Number,937000
+State,North Carolina,2014,Number,549000
+State,North Dakota,2014,Number,24000
+State,Ohio,2014,Number,594000
+State,Oklahoma,2014,Number,208000
+State,Oregon,2014,Number,182000
+State,Pennsylvania,2014,Number,514000
+State,Rhode Island,2014,Number,42000
+State,South Carolina,2014,Number,289000
+State,South Dakota,2014,Number,37000
+State,Tennessee,2014,Number,384000
+State,Texas,2014,Number,1729000
+State,Utah,2014,Number,119000
+State,Vermont,2014,Number,19000
+State,Virginia,2014,Number,291000
+State,Washington,2014,Number,276000
+State,West Virginia,2014,Number,92000
+State,Wisconsin,2014,Number,235000
+State,Wyoming,2014,Number,17000
+Territory,Puerto Rico,2014,Number,449000
+Territory,Puerto Rico,2014,Percent,0.58
+State,Wyoming,2014,Percent,0.13
+State,Wisconsin,2014,Percent,0.18
+State,Washington,2014,Percent,0.18
+State,West Virginia,2014,Percent,0.25
+State,Virginia,2014,Percent,0.16
+State,Utah,2014,Percent,0.13
+State,Vermont,2014,Percent,0.16
+State,Texas,2014,Percent,0.25
+State,South Dakota,2014,Percent,0.18
+State,Tennessee,2014,Percent,0.26
+State,South Carolina,2014,Percent,0.27
+State,Rhode Island,2014,Percent,0.2
+State,Pennsylvania,2014,Percent,0.19
+State,Oregon,2014,Percent,0.22
+State,Oklahoma,2014,Percent,0.22
+State,Ohio,2014,Percent,0.23
+State,North Dakota,2014,Percent,0.15
+State,North Carolina,2014,Percent,0.24
+State,New Mexico,2014,Percent,0.3
+State,New York,2014,Percent,0.23
+State,New Jersey,2014,Percent,0.16
+State,Nevada,2014,Percent,0.22
+State,New Hampshire,2014,Percent,0.13
+State,Nebraska,2014,Percent,0.16
+State,Missouri,2014,Percent,0.21
+State,Montana,2014,Percent,0.19
+State,Mississippi,2014,Percent,0.29
+State,Minnesota,2014,Percent,0.15
+State,Michigan,2014,Percent,0.23
+State,Massachusetts,2014,Percent,0.15
+State,Maryland,2014,Percent,0.13
+State,Maine,2014,Percent,0.19
+State,Louisiana,2014,Percent,0.28
+State,Kentucky,2014,Percent,0.26
+State,Iowa,2014,Percent,0.15
+State,Kansas,2014,Percent,0.18
+State,Indiana,2014,Percent,0.22
+State,Idaho,2014,Percent,0.19
+State,Illinois,2014,Percent,0.2
+State,Hawaii,2014,Percent,0.15
+State,Florida,2014,Percent,0.24
+State,Georgia,2014,Percent,0.26
+City,District of Columbia,2014,Percent,0.26
+State,Delaware,2014,Percent,0.18
+State,Connecticut,2014,Percent,0.15
+State,Colorado,2014,Percent,0.15
+State,California,2014,Percent,0.23
+State,Arkansas,2014,Percent,0.26
+State,Arizona,2014,Percent,0.26
+State,Alaska,2014,Percent,0.16
+Nation,United States,2014,Percent,0.22
+State,Alabama,2014,Percent,0.28
+State,Alabama,2016,Percent,0.25
+Nation,United States,2016,Percent,0.19
+State,Alaska,2016,Percent,0.14
+State,Arizona,2016,Percent,0.24
+State,Arkansas,2016,Percent,0.24
+State,California,2016,Percent,0.2
+State,Colorado,2016,Percent,0.13
+State,Connecticut,2016,Percent,0.13
+State,Delaware,2016,Percent,0.17
+City,District of Columbia,2016,Percent,0.26
+State,Florida,2016,Percent,0.21
+State,Georgia,2016,Percent,0.23
+State,Hawaii,2016,Percent,0.1
+State,Illinois,2016,Percent,0.18
+State,Idaho,2016,Percent,0.18
+State,Indiana,2016,Percent,0.2
+State,Kansas,2016,Percent,0.14
+State,Iowa,2016,Percent,0.15
+State,Kentucky,2016,Percent,0.25
+State,Louisiana,2016,Percent,0.29
+State,Maine,2016,Percent,0.17
+State,Maryland,2016,Percent,0.13
+State,Massachusetts,2016,Percent,0.14
+State,Michigan,2016,Percent,0.21
+State,Minnesota,2016,Percent,0.13
+State,Mississippi,2016,Percent,0.3
+State,Missouri,2016,Percent,0.19
+State,Montana,2016,Percent,0.15
+State,Nebraska,2016,Percent,0.14
+State,New Hampshire,2016,Percent,0.08
+State,Nevada,2016,Percent,0.19
+State,New Jersey,2016,Percent,0.15
+State,New York,2016,Percent,0.21
+State,New Mexico,2016,Percent,0.3
+State,North Carolina,2016,Percent,0.22
+State,North Dakota,2016,Percent,0.12
+State,Ohio,2016,Percent,0.21
+State,Oklahoma,2016,Percent,0.23
+State,Oregon,2016,Percent,0.17
+State,Pennsylvania,2016,Percent,0.19
+State,Rhode Island,2016,Percent,0.17
+State,South Carolina,2016,Percent,0.23
+State,South Dakota,2016,Percent,0.17
+State,Tennessee,2016,Percent,0.23
+State,Texas,2016,Percent,0.22
+State,Vermont,2016,Percent,0.15
+State,Utah,2016,Percent,0.11
+State,Virginia,2016,Percent,0.14
+State,West Virginia,2016,Percent,0.24
+State,Washington,2016,Percent,0.14
+State,Wisconsin,2016,Percent,0.16
+State,Wyoming,2016,Percent,0.11
+Territory,Puerto Rico,2016,Percent,0.56
+Territory,Puerto Rico,2016,Number,390000
+State,Wyoming,2016,Number,15000
+State,Wisconsin,2016,Number,198000
+State,West Virginia,2016,Number,88000
+State,Washington,2016,Number,220000
+State,Virginia,2016,Number,262000
+State,Vermont,2016,Number,17000
+State,Utah,2016,Number,101000
+State,Texas,2016,Number,1619000
+State,Tennessee,2016,Number,334000
+State,South Dakota,2016,Number,35000
+State,South Carolina,2016,Number,249000
+State,Rhode Island,2016,Number,35000
+State,Pennsylvania,2016,Number,486000
+State,Oregon,2016,Number,144000
+State,Oklahoma,2016,Number,217000
+State,Ohio,2016,Number,525000
+State,North Dakota,2016,Number,21000
+State,North Carolina,2016,Number,490000
+State,New York,2016,Number,847000
+State,New Mexico,2016,Number,145000
+State,New Jersey,2016,Number,285000
+State,New Hampshire,2016,Number,20000
+State,Nevada,2016,Number,127000
+State,Nebraska,2016,Number,66000
+State,Montana,2016,Number,34000
+State,Missouri,2016,Number,261000
+State,Mississippi,2016,Number,211000
+State,Minnesota,2016,Number,161000
+State,Michigan,2016,Number,446000
+State,Massachusetts,2016,Number,185000
+State,Maryland,2016,Number,169000
+State,Maine,2016,Number,43000
+State,Louisiana,2016,Number,314000
+State,Kentucky,2016,Number,248000
+State,Kansas,2016,Number,99000
+State,Iowa,2016,Number,105000
+State,Indiana,2016,Number,301000
+State,Illinois,2016,Number,512000
+State,Idaho,2016,Number,76000
+State,Hawaii,2016,Number,31000
+State,Georgia,2016,Number,566000
+State,Florida,2016,Number,859000
+City,District of Columbia,2016,Number,31000
+State,Delaware,2016,Number,35000
+State,Connecticut,2016,Number,96000
+State,Colorado,2016,Number,166000
+State,California,2016,Number,1785000
+State,Arkansas,2016,Number,165000
+State,Arizona,2016,Number,379000
+State,Alaska,2016,Number,26000
+State,Alabama,2016,Number,266000
+Nation,United States,2016,Number,14116000
+Nation,United States,2017,Number,13353000
+State,Alabama,2017,Number,265000
+State,Alaska,2017,Number,27000
+State,Arizona,2017,Number,332000
+State,Arkansas,2017,Number,156000
+State,California,2017,Number,1619000
+State,Colorado,2017,Number,149000
+State,Connecticut,2017,Number,93000
+State,Delaware,2017,Number,37000
+City,District of Columbia,2017,Number,32000
+State,Florida,2017,Number,840000
+State,Georgia,2017,Number,519000
+State,Hawaii,2017,Number,34000
+State,Idaho,2017,Number,67000
+State,Illinois,2017,Number,486000
+State,Indiana,2017,Number,282000
+State,Iowa,2017,Number,88000
+State,Kansas,2017,Number,104000
+State,Kentucky,2017,Number,223000
+State,Louisiana,2017,Number,307000
+State,Maine,2017,Number,33000
+State,Maryland,2017,Number,160000
+State,Massachusetts,2017,Number,182000
+State,Michigan,2017,Number,419000
+State,Minnesota,2017,Number,150000
+State,Mississippi,2017,Number,190000
+State,Missouri,2017,Number,252000
+State,Montana,2017,Number,33000
+State,Nebraska,2017,Number,66000
+State,Nevada,2017,Number,125000
+State,New Hampshire,2017,Number,26000
+State,New Jersey,2017,Number,272000
+State,New Mexico,2017,Number,131000
+State,New York,2017,Number,803000
+State,North Carolina,2017,Number,481000
+State,North Dakota,2017,Number,19000
+State,Ohio,2017,Number,513000
+State,Oklahoma,2017,Number,203000
+State,Oregon,2017,Number,141000
+State,Pennsylvania,2017,Number,444000
+State,Rhode Island,2017,Number,34000
+State,South Carolina,2017,Number,245000
+State,South Dakota,2017,Number,34000
+State,Tennessee,2017,Number,315000
+State,Texas,2017,Number,1525000
+State,Utah,2017,Number,98000
+State,Vermont,2017,Number,16000
+State,Virginia,2017,Number,258000
+State,Washington,2017,Number,232000
+State,West Virginia,2017,Number,94000
+State,Wisconsin,2017,Number,182000
+State,Wyoming,2017,Number,18000
+Territory,Puerto Rico,2017,Number,377000
+Territory,Puerto Rico,2017,Percent,0.58
+State,Wyoming,2017,Percent,0.13
+State,Wisconsin,2017,Percent,0.14
+State,Washington,2017,Percent,0.14
+State,West Virginia,2017,Percent,0.26
+State,Virginia,2017,Percent,0.14
+State,Utah,2017,Percent,0.11
+State,Vermont,2017,Percent,0.14
+State,Texas,2017,Percent,0.21
+State,Tennessee,2017,Percent,0.21
+State,South Dakota,2017,Percent,0.17
+State,South Carolina,2017,Percent,0.23
+State,Rhode Island,2017,Percent,0.17
+State,Pennsylvania,2017,Percent,0.17
+State,Oregon,2017,Percent,0.16
+State,Oklahoma,2017,Percent,0.21
+State,Ohio,2017,Percent,0.2
+State,North Dakota,2017,Percent,0.11
+State,North Carolina,2017,Percent,0.21
+State,New Mexico,2017,Percent,0.27
+State,New York,2017,Percent,0.2
+State,New Jersey,2017,Percent,0.14
+State,Nevada,2017,Percent,0.19
+State,New Hampshire,2017,Percent,0.1
+State,Nebraska,2017,Percent,0.14
+State,Montana,2017,Percent,0.15
+State,Missouri,2017,Percent,0.19
+State,Mississippi,2017,Percent,0.27
+State,Minnesota,2017,Percent,0.12
+State,Michigan,2017,Percent,0.2
+State,Massachusetts,2017,Percent,0.14
+State,Maryland,2017,Percent,0.12
+State,Maine,2017,Percent,0.13
+State,Louisiana,2017,Percent,0.28
+State,Kentucky,2017,Percent,0.22
+State,Iowa,2017,Percent,0.12
+State,Kansas,2017,Percent,0.15
+State,Indiana,2017,Percent,0.18
+State,Idaho,2017,Percent,0.15
+State,Illinois,2017,Percent,0.17
+State,Hawaii,2017,Percent,0.12
+State,Georgia,2017,Percent,0.21
+State,Florida,2017,Percent,0.2
+City,District of Columbia,2017,Percent,0.26
+State,Delaware,2017,Percent,0.18
+State,Connecticut,2017,Percent,0.13
+State,Colorado,2017,Percent,0.12
+State,California,2017,Percent,0.18
+State,Arkansas,2017,Percent,0.22
+State,Arizona,2017,Percent,0.21
+State,Alaska,2017,Percent,0.15
+Nation,United States,2017,Percent,0.18
+State,Alabama,2017,Percent,0.25
+Nation,United States,2022,Percent,0.16
+State,Alaska,2022,Percent,0.14
+State,Alabama,2022,Percent,0.22
+State,Arizona,2022,Percent,0.16
+State,Arkansas,2022,Percent,0.22
+State,California,2022,Percent,0.15
+State,Colorado,2022,Percent,0.11
+State,Connecticut,2022,Percent,0.12
+State,Delaware,2022,Percent,0.13
+City,District of Columbia,2022,Percent,0.17
+State,Florida,2022,Percent,0.17
+State,Georgia,2022,Percent,0.17
+State,Hawaii,2022,Percent,0.13
+State,Illinois,2022,Percent,0.16
+State,Idaho,2022,Percent,0.13
+State,Indiana,2022,Percent,0.16
+State,Iowa,2022,Percent,0.12
+State,Kentucky,2022,Percent,0.21
+State,Kansas,2022,Percent,0.14
+State,Louisiana,2022,Percent,0.25
+State,Maine,2022,Percent,0.12
+State,Maryland,2022,Percent,0.12
+State,Massachusetts,2022,Percent,0.12
+State,Michigan,2022,Percent,0.18
+State,Minnesota,2022,Percent,0.11
+State,Mississippi,2022,Percent,0.26
+State,Missouri,2022,Percent,0.17
+State,Montana,2022,Percent,0.13
+State,Nebraska,2022,Percent,0.14
+State,New Hampshire,2022,Percent,0.07
+State,Nevada,2022,Percent,0.16
+State,New Jersey,2022,Percent,0.13
+State,New Mexico,2022,Percent,0.23
+State,North Carolina,2022,Percent,0.17
+State,New York,2022,Percent,0.19
+State,North Dakota,2022,Percent,0.13
+State,Ohio,2022,Percent,0.18
+State,Oklahoma,2022,Percent,0.2
+State,Oregon,2022,Percent,0.14
+State,Pennsylvania,2022,Percent,0.15
+State,Rhode Island,2022,Percent,0.12
+State,South Carolina,2022,Percent,0.19
+State,South Dakota,2022,Percent,0.15
+State,Tennessee,2022,Percent,0.18
+State,Texas,2022,Percent,0.19
+State,Vermont,2022,Percent,0.12
+State,Utah,2022,Percent,0.08
+State,Virginia,2022,Percent,0.13
+State,Washington,2022,Percent,0.11
+State,Wisconsin,2022,Percent,0.13
+State,West Virginia,2022,Percent,0.25
+State,Wyoming,2022,Percent,0.14
+Territory,Puerto Rico,2022,Percent,0.58
+Territory,Puerto Rico,2022,Number,297000
+State,Wisconsin,2022,Number,156000
+State,Wyoming,2022,Number,18000
+State,Washington,2022,Number,185000
+State,West Virginia,2022,Number,86000
+State,Vermont,2022,Number,13000
+State,Virginia,2022,Number,234000
+State,Texas,2022,Number,1412000
+State,Utah,2022,Number,78000
+State,South Dakota,2022,Number,32000
+State,Tennessee,2022,Number,266000
+State,Rhode Island,2022,Number,23000
+State,South Carolina,2022,Number,211000
+State,Oregon,2022,Number,112000
+State,Pennsylvania,2022,Number,394000
+State,Ohio,2022,Number,446000
+State,Oklahoma,2022,Number,185000
+State,North Carolina,2022,Number,388000
+State,North Dakota,2022,Number,23000
+State,New Mexico,2022,Number,105000
+State,New York,2022,Number,736000
+State,New Hampshire,2022,Number,17000
+State,New Jersey,2022,Number,254000
+State,Nebraska,2022,Number,64000
+State,Nevada,2022,Number,109000
+State,Missouri,2022,Number,225000
+State,Montana,2022,Number,31000
+State,Minnesota,2022,Number,139000
+State,Mississippi,2022,Number,175000
+State,Massachusetts,2022,Number,152000
+State,Michigan,2022,Number,378000
+State,Maine,2022,Number,28000
+State,Maryland,2022,Number,155000
+State,Kentucky,2022,Number,207000
+State,Louisiana,2022,Number,257000
+State,Iowa,2022,Number,86000
+State,Kansas,2022,Number,94000
+State,Illinois,2022,Number,425000
+State,Indiana,2022,Number,243000
+State,Hawaii,2022,Number,37000
+State,Idaho,2022,Number,61000
+State,Florida,2022,Number,723000
+State,Georgia,2022,Number,411000
+State,Delaware,2022,Number,26000
+City,District of Columbia,2022,Number,21000
+State,Colorado,2022,Number,133000
+State,Connecticut,2022,Number,90000
+State,Arkansas,2022,Number,151000
+State,California,2022,Number,1278000
+State,Alaska,2022,Number,24000
+State,Arizona,2022,Number,247000
+Nation,United States,2022,Number,11583000
+State,Alabama,2022,Number,240000
+State,Alabama,2019,Number,228000
+State,Alaska,2019,Number,23000
+Nation,United States,2019,Number,12000000
+State,Arizona,2019,Number,308000
+State,California,2019,Number,1364000
+State,Arkansas,2019,Number,151000
+State,Colorado,2019,Number,135000
+State,Connecticut,2019,Number,101000
+City,District of Columbia,2019,Number,24000
+State,Delaware,2019,Number,32000
+State,Georgia,2019,Number,461000
+State,Florida,2019,Number,737000
+State,Illinois,2019,Number,436000
+State,Idaho,2019,Number,58000
+State,Hawaii,2019,Number,36000
+State,Indiana,2019,Number,231000
+State,Kansas,2019,Number,101000
+State,Iowa,2019,Number,92000
+State,Louisiana,2019,Number,289000
+State,Kentucky,2019,Number,212000
+State,Massachusetts,2019,Number,154000
+State,Maryland,2019,Number,157000
+State,Maine,2019,Number,33000
+State,Michigan,2019,Number,371000
+State,Minnesota,2019,Number,143000
+State,Mississippi,2019,Number,192000
+State,Missouri,2019,Number,229000
+State,Montana,2019,Number,33000
+State,Nevada,2019,Number,115000
+State,Nebraska,2019,Number,51000
+State,New Hampshire,2019,Number,18000
+State,New Jersey,2019,Number,235000
+State,New Mexico,2019,Number,116000
+State,New York,2019,Number,712000
+State,North Carolina,2019,Number,440000
+State,North Dakota,2019,Number,18000
+State,Oklahoma,2019,Number,186000
+State,Ohio,2019,Number,466000
+State,Oregon,2019,Number,110000
+State,Pennsylvania,2019,Number,435000
+State,South Carolina,2019,Number,215000
+State,Rhode Island,2019,Number,28000
+State,Tennessee,2019,Number,291000
+State,South Dakota,2019,Number,31000
+State,Vermont,2019,Number,11000
+State,Utah,2019,Number,91000
+State,Texas,2019,Number,1401000
+State,Virginia,2019,Number,245000
+State,West Virginia,2019,Number,70000
+State,Washington,2019,Number,197000
+State,Wyoming,2019,Number,15000
+Territory,Puerto Rico,2019,Number,323000
+Territory,Puerto Rico,2019,Percent,0.57
+State,Wisconsin,2019,Number,168000
+State,Wyoming,2019,Percent,0.12
+State,West Virginia,2019,Percent,0.2
+State,Wisconsin,2019,Percent,0.14
+State,Washington,2019,Percent,0.12
+State,Virginia,2019,Percent,0.13
+State,Utah,2019,Percent,0.1
+State,Vermont,2019,Percent,0.1
+State,Texas,2019,Percent,0.19
+State,Tennessee,2019,Percent,0.2
+State,South Dakota,2019,Percent,0.15
+State,South Carolina,2019,Percent,0.2
+State,Rhode Island,2019,Percent,0.14
+State,Pennsylvania,2019,Percent,0.17
+State,Oregon,2019,Percent,0.13
+State,Oklahoma,2019,Percent,0.2
+State,Ohio,2019,Percent,0.18
+State,North Dakota,2019,Percent,0.1
+State,New York,2019,Percent,0.18
+State,North Carolina,2019,Percent,0.2
+State,New Mexico,2019,Percent,0.25
+State,New Jersey,2019,Percent,0.12
+State,Nevada,2019,Percent,0.17
+State,New Hampshire,2019,Percent,0.07
+State,Nebraska,2019,Percent,0.11
+State,Montana,2019,Percent,0.15
+State,Missouri,2019,Percent,0.17
+State,Mississippi,2019,Percent,0.28
+State,Minnesota,2019,Percent,0.11
+State,Michigan,2019,Percent,0.18
+State,Massachusetts,2019,Percent,0.12
+State,Maryland,2019,Percent,0.12
+State,Maine,2019,Percent,0.14
+State,Louisiana,2019,Percent,0.27
+State,Kansas,2019,Percent,0.15
+State,Kentucky,2019,Percent,0.22
+State,Iowa,2019,Percent,0.13
+State,Indiana,2019,Percent,0.15
+State,Idaho,2019,Percent,0.13
+State,Illinois,2019,Percent,0.16
+State,Hawaii,2019,Percent,0.12
+State,Georgia,2019,Percent,0.19
+State,Florida,2019,Percent,0.18
+City,District of Columbia,2019,Percent,0.19
+State,Delaware,2019,Percent,0.16
+State,Connecticut,2019,Percent,0.14
+State,Colorado,2019,Percent,0.11
+State,California,2019,Percent,0.16
+State,Arkansas,2019,Percent,0.22
+State,Arizona,2019,Percent,0.19
+State,Alabama,2019,Percent,0.21
+State,Alaska,2019,Percent,0.13
+Nation,United States,2019,Percent,0.17
+Nation,United States,2021,Percent,0.17
+State,Alaska,2021,Percent,0.12
+State,Alabama,2021,Percent,0.22
+State,Arizona,2021,Percent,0.17
+State,Arkansas,2021,Percent,0.22
+State,California,2021,Percent,0.16
+State,Colorado,2021,Percent,0.12
+State,Connecticut,2021,Percent,0.13
+State,Delaware,2021,Percent,0.17
+City,District of Columbia,2021,Percent,0.24
+State,Florida,2021,Percent,0.18
+State,Georgia,2021,Percent,0.2
+State,Hawaii,2021,Percent,0.14
+State,Idaho,2021,Percent,0.13
+State,Indiana,2021,Percent,0.16
+State,Illinois,2021,Percent,0.16
+State,Iowa,2021,Percent,0.13
+State,Kentucky,2021,Percent,0.22
+State,Kansas,2021,Percent,0.13
+State,Louisiana,2021,Percent,0.27
+State,Maine,2021,Percent,0.15
+State,Maryland,2021,Percent,0.14
+State,Massachusetts,2021,Percent,0.13
+State,Michigan,2021,Percent,0.18
+State,Minnesota,2021,Percent,0.11
+State,Mississippi,2021,Percent,0.28
+State,Missouri,2021,Percent,0.16
+State,Montana,2021,Percent,0.14
+State,Nebraska,2021,Percent,0.13
+State,Nevada,2021,Percent,0.19
+State,New Jersey,2021,Percent,0.14
+State,New Hampshire,2021,Percent,0.09
+State,New Mexico,2021,Percent,0.24
+State,North Carolina,2021,Percent,0.18
+State,New York,2021,Percent,0.19
+State,North Dakota,2021,Percent,0.1
+State,Ohio,2021,Percent,0.19
+State,Oklahoma,2021,Percent,0.21
+State,Oregon,2021,Percent,0.14
+State,Pennsylvania,2021,Percent,0.17
+State,Rhode Island,2021,Percent,0.15
+State,South Carolina,2021,Percent,0.2
+State,South Dakota,2021,Percent,0.15
+State,Tennessee,2021,Percent,0.18
+State,Texas,2021,Percent,0.2
+State,Utah,2021,Percent,0.08
+State,Virginia,2021,Percent,0.13
+State,Vermont,2021,Percent,0.1
+State,Washington,2021,Percent,0.12
+State,Wisconsin,2021,Percent,0.13
+State,West Virginia,2021,Percent,0.21
+State,Wyoming,2021,Percent,0.13
+State,Wisconsin,2021,Number,168000
+Territory,Puerto Rico,2021,Number,298000
+Territory,Puerto Rico,2021,Percent,0.55
+State,Wyoming,2021,Number,17000
+State,Washington,2021,Number,198000
+State,West Virginia,2021,Number,73000
+State,Virginia,2021,Number,243000
+State,Texas,2021,Number,1441000
+State,Utah,2021,Number,76000
+State,Vermont,2021,Number,12000
+State,South Dakota,2021,Number,31000
+State,Tennessee,2021,Number,272000
+State,Rhode Island,2021,Number,30000
+State,South Carolina,2021,Number,221000
+State,Pennsylvania,2021,Number,446000
+State,Oregon,2021,Number,113000
+State,Ohio,2021,Number,475000
+State,Oklahoma,2021,Number,199000
+State,North Dakota,2021,Number,19000
+State,North Carolina,2021,Number,411000
+State,New York,2021,Number,747000
+State,New Mexico,2021,Number,111000
+State,New Jersey,2021,Number,284000
+State,New Hampshire,2021,Number,23000
+State,Nebraska,2021,Number,59000
+State,Nevada,2021,Number,129000
+State,Montana,2021,Number,32000
+State,Missouri,2021,Number,219000
+State,Mississippi,2021,Number,189000
+State,Minnesota,2021,Number,139000
+State,Michigan,2021,Number,377000
+State,Maine,2021,Number,37000
+State,Maryland,2021,Number,187000
+State,Massachusetts,2021,Number,169000
+State,Kentucky,2021,Number,220000
+State,Louisiana,2021,Number,287000
+State,Iowa,2021,Number,91000
+State,Kansas,2021,Number,92000
+State,Indiana,2021,Number,249000
+State,Hawaii,2021,Number,41000
+State,Idaho,2021,Number,60000
+State,Illinois,2021,Number,442000
+State,Florida,2021,Number,753000
+State,Georgia,2021,Number,502000
+State,Delaware,2021,Number,35000
+City,District of Columbia,2021,Number,29000
+State,Connecticut,2021,Number,92000
+State,Colorado,2021,Number,145000
+State,Arkansas,2021,Number,155000
+State,California,2021,Number,1363000
+State,Arizona,2021,Number,275000
+Nation,United States,2021,Number,12243000
+State,Alaska,2021,Number,22000
+State,Alabama,2021,Number,245000
